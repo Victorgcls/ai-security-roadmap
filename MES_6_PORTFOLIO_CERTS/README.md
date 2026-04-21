@@ -38,10 +38,3 @@
 
 iFood · Nubank · Itaú · Totvs · CI&T · Consultorias de segurança · Startups FinTech/HealthTech · Big 4 (Deloitte, KPMG)
 
----
-
-## Candidaturas
-
-| Data | Empresa | Vaga | Status |
-|------|---------|------|--------|
-| | | | |
