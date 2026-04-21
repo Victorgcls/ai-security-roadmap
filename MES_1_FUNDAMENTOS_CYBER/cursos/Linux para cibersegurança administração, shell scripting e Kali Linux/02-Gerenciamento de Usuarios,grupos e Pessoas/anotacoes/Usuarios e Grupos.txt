@@ -1,0 +1,9 @@
+A aula aborda o gerenciamento de identidades no Linux, começando com a criação de usuários. Para criar um novo usuário, você utiliza o comando adduser precedido de sudo, já que é necessário privilégio administrativo. O sistema cria automaticamente um ID, um grupo padrão e um diretório home para o usuário.
+
+Em seguida, você aprendeu a alterar a senha de um usuário com sudo passwd seguido do nome do usuário. A senha deve ter pelo menos 8 caracteres e um certo grau de complexidade.
+
+Para remover usuários, existe o comando deluser. Porém, há um detalhe importante: ao remover um usuário dessa forma, o diretório home dele permanece no sistema. Se você quiser remover tanto o usuário quanto seu diretório home, deve usar deluser --remove-home.
+
+A aula também cobre o gerenciamento de grupos. Você cria grupos com sudo addgroup e adiciona usuários a eles usando sudo usermod -aG seguido do nome do grupo e do usuário. Para verificar a quais grupos um usuário pertence, use o comando groups.
+
+Por fim, para remover um grupo, você utiliza sudo delgroup.

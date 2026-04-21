@@ -1,0 +1,15 @@
+A aula abordou o conceito de defesa em camadas, que é uma estratégia fundamental em cibersegurança. Os principais pontos foram:
+
+Conceito de superfície de ataque: A segurança depende de reduzir a superfície de ataque através de múltiplas camadas de proteção, como rede, servidor, host e aplicação.
+
+Tipos de controles de segurança: Existem controles preventivos (como firewalls), de detecção (monitoramento e alertas) e corretivos (como backups para recuperação de dados).
+
+Resposta a incidentes: Quando ocorre um incidente de segurança, é importante identificar, restringir e mitigar o risco rapidamente, aprendendo com o ocorrido para evitar recorrências.
+
+Defesa em profundidade: Proteger o ambiente através de várias camadas dificulta ataques diretos, pois o atacante precisa passar por múltiplas barreiras.
+
+Camadas práticas de proteção: A aula exemplificou com aplicações web, mencionando proteções em diferentes níveis: física (trancas, câmeras), perímetro (firewalls), rede (criptografia TLS), host (antivírus), aplicação (desenvolvimento seguro) e dados (criptografia, backups).
+
+Fator humano: Também foi destacada a importância de educar usuários contra phishing e práticas inseguras.
+
+Resumindo: defesa em camadas significa implementar múltiplas camadas de controle para proteger recursos críticos e reduzir riscos de ataques bem-sucedidos.

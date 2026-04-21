@@ -1,0 +1,7 @@
+A aula aborda o CIS Control (também chamado de SysControl), um framework prático voltado para implementação de controles de segurança. Diferentemente do NIST-CSF, que foca em entender e contornar riscos de forma estratégica, o CIS Control é direcionado para a prática, mostrando como adicionar controles específicos em um ambiente.
+
+O framework possui três níveis de maturidade: nível 1 (básico), nível 2 (intermediário) e nível 3 (avançado), permitindo que organizações com diferentes graus de maturidade em segurança implementem controles apropriados ao seu cenário.
+
+A aula também apresenta o CIS Benchmark, que oferece práticas recomendadas específicas para ferramentas e plataformas particulares, como AWS. Um exemplo prático mencionado é a restrição de usuários root em contas AWS, evitando que usuários com permissões administrativas comprometam todo o ambiente.
+
+Por fim, a aula enfatiza a importância de entender esses controles não apenas para avaliar a maturidade de um ambiente e identificar riscos, mas também para facilitar a comunicação entre diferentes áreas de segurança, como desenvolvimento seguro, Red Team e GRC, contribuindo para a conformidade e redução de vulnerabilidades na instituição.

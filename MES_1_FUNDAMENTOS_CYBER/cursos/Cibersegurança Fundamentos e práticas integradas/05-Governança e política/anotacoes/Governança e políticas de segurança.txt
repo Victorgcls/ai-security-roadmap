@@ -1,0 +1,15 @@
+A aula aborda governança e políticas de segurança da informação, explicando como elas direcionam o comportamento organizacional e definem responsabilidades.
+
+Os pontos principais são:
+
+Propósito das políticas e governança: Estabelecem diretrizes sobre como a empresa deve agir, quem é responsável e como implementar controles de segurança para mitigar riscos.
+
+Responsabilidades: Profissionais como o CISO e diretores são responsáveis por determinar ações e manter a conformidade com regulamentações como a ISO 27001.
+
+Diferença entre norma e diretriz: A norma é mais abrangente e geral (por exemplo, "monitorar acessos críticos"), enquanto a diretriz é específica e prática (por exemplo, "senha com 12 caracteres, incluindo maiúsculas, minúsculas e caracteres especiais").
+
+Frameworks: Conjuntos de documentos como ISO, NIST, COBIT e MITRE ATT&CK que auxiliam na criação de normas e padrões de segurança.
+
+Estrutura hierárquica: A política é abrangente, a norma estabelece regras específicas e o procedimento descreve como executar essas ações (os controles).
+
+Benefícios: Padronização, conformidade, redução de riscos, melhoria contínua e eficiência operacional, além de garantir confidencialidade, integridade e disponibilidade dos dados.

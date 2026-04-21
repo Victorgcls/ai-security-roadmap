@@ -1,0 +1,11 @@
+A aula aborda dois importantes processadores de texto no Linux: o awk e o sed.
+
+AWK - Processador de texto com linhas e colunas
+
+O awk é uma linguagem de script completa que trabalha com texto estruturado. Na aula, você aprendeu a usá-lo de forma básica para extrair colunas específicas. Por exemplo, com ls -l | awk '{print $9}', você consegue exibir apenas os nomes dos arquivos (coluna 9). Além disso, é possível personalizar a saída adicionando textos descritivos, como em ls -l | awk '{print "Arquivo:", $9, "criado em:", $6, $7, $8}', que apresenta o nome do arquivo junto com a data de criação de forma mais legível.
+
+SED - Stream Editor para substituições
+
+O sed é um editor de texto não interativo usado principalmente para substituir padrões de texto. A forma básica apresentada foi sed 's/texto_antigo/texto_novo/g', onde o "g" indica que a substituição deve ser global (em todo o arquivo). Na prática, você viu como usar cat log3.2.txt | sed 's/info/informações/g' >> log-novo.txt para substituir todas as ocorrências de "info" por "informações" e salvar o resultado em um novo arquivo.
+
+Ambas as ferramentas são essenciais para automações e scripts, complementando o que você já aprendeu sobre grep e expressões regulares.

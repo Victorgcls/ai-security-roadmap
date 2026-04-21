@@ -1,0 +1,19 @@
+A aula aborda o jq, uma ferramenta poderosa para manipular e formatar dados em JSON. Aqui estão os pontos principais:
+
+O que é jq e sua função básica
+O jq formata saídas em JSON, tornando-as mais legíveis e organizadas. Ele transforma dados que estão em uma única linha em múltiplas linhas com indentação adequada.
+
+Acessando dados específicos
+Você pode extrair campos específicos de um JSON usando notação de ponto. Por exemplo, .nome acessa o campo nome, e .usuario.nome acessa campos aninhados.
+
+Trabalhando com arrays
+O jq permite acessar elementos específicos de um array usando índices, como .[0], ou percorrer todos os itens com [].
+
+Filtrando dados com condições
+Você pode usar select() para filtrar dados baseado em condições. Por exemplo, select(.completed == true) retorna apenas itens que atendem à condição.
+
+Extraindo múltiplos campos
+É possível selecionar apenas os campos que você precisa de um JSON, criando um novo objeto com apenas as informações desejadas.
+
+Aplicação prática com APIs
+O jq é especialmente útil ao trabalhar com APIs, permitindo extrair, filtrar e organizar informações de forma rápida e eficiente, o que é importante para profissionais de cibersegurança.

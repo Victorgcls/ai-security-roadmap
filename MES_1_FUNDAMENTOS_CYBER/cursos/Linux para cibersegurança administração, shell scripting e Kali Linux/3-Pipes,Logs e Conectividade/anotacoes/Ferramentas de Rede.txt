@@ -1,0 +1,14 @@
+A aula apresenta ferramentas fundamentais do Linux para profissionais de cibersegurança interagirem com aplicações web e redes.
+
+Ping: Verifica conectividade com domínios ou IPs. No Linux, continua executando até ser interrompido, mas você pode limitar o número de pings com o parâmetro -c (por exemplo, ping alura.com.br -c 6). Fornece estatísticas como perda de pacotes e tempos de resposta.
+
+Traceroute: Traça a rota que um pacote percorre até o destino, mostrando até 30 saltos. Ajuda a identificar problemas de rota e entender por quais equipamentos o pacote passa.
+
+Netcat: Descrito como um "canivete suíço de conexões", oferece múltiplas funcionalidades:
+
+Testar conexões com nc -vz (verbose e zero IO)
+Transferir arquivos entre hosts usando redirecionamento
+Criar um servidor web rudimentar com um loop while
+Realizar escaneamentos simples de portas
+Receber shells reversos em testes ofensivos
+A aula demonstra exemplos práticos de cada ferramenta, mostrando como usá-las em situações reais de diagnóstico e teste de rede.

@@ -1,0 +1,9 @@
+A aula começou contextualizando que a segurança da informação é responsabilidade de todos na empresa, não apenas do departamento de tecnologia. Foi apresentado um caso real de 2024, o mega vazamento "MOBI", que reuniu 12 terabytes de dados roubados, reforçando que as empresas estão constantemente sob risco de ataques cibernéticos.
+
+Em seguida, foram abordadas as boas práticas que profissionais de segurança implementam: políticas de segurança, normas e regulamentações. Essas medidas são criadas para minimizar riscos de invasão e vazamento de dados, embora não os eliminem completamente.
+
+Foram apresentados exemplos práticos, como a proibição da IBM quanto ao uso de pendrives e cartões SD (dispositivos que podem conter malware como o rubber duck) e a política de senhas seguras com renovação periódica.
+
+A aula também explicou a ISO 27001, uma norma internacional que estabelece um Sistema de Gestão de Segurança da Informação. Empresas que a implementam demonstram adotar boas práticas, embora isso não garanta que nunca sofrerão ataques.
+
+Por fim, foi discutido um conceito importante: segurança e comodidade são inversamente proporcionais. Quanto maior o nível de segurança desejado, mais restrições e políticas serão necessárias, o que pode parecer burocrático. O ideal é encontrar um equilíbrio entre segurança e praticidade.

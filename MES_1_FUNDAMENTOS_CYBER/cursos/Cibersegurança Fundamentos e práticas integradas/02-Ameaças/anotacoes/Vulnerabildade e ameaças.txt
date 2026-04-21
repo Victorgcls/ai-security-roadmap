@@ -1,0 +1,11 @@
+Sobre vulnerabilidades, você aprendeu que elas são falhas em sistemas, processos ou pessoas que podem ser exploradas. É importante diferenciar uma vulnerabilidade de um simples bug: nem toda falha é explorável. A aula destaca três pontos principais de vulnerabilidade:
+
+Senhas fracas - é necessário usar senhas complexas com pelo menos 14 caracteres, incluindo maiúsculas, minúsculas e caracteres especiais. Também é recomendado usar autenticação multifator e sistemas robustos como single sign-on.
+
+Softwares desatualizados - bibliotecas e componentes desatualizados podem conter vulnerabilidades conhecidas que atacantes conseguem explorar. O exemplo do Log4j em 2021 ilustra bem esse risco.
+
+Pessoas como elo fraco - a educação é essencial, pois ataques como phishing exploram o fator humano.
+
+Sobre ameaças, a aula apresenta vários tipos: malware, vírus, worms, cavalos de Troia, keyloggers, phishing e ataques DDoS. Todas essas ameaças exploram vulnerabilidades para causar danos.
+
+O objetivo principal é que você compreenda essas ameaças e vulnerabilidades para identificá-las, priorizá-las e mitigá-las adequadamente no seu ambiente.

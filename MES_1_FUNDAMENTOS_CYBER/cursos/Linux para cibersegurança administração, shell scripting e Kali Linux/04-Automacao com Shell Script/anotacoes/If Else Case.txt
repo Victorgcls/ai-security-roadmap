@@ -1,0 +1,11 @@
+Variáveis e argumentos: O script pode receber dados através de $0 (nome do script), $1, $2, $3 (argumentos da linha de comando), $@ (todos os argumentos) e $? (código de saída do último comando).
+
+Atribuição de saídas de comandos: Você pode armazenar o resultado de um comando em uma variável usando a sintaxe VARIAVEL=$(comando). Por exemplo, DATA_HOJE=$(date +%Y-%m-%d) captura a data formatada.
+
+Interação com o usuário: O comando read permite que o script solicite entrada do usuário e armazene em uma variável. A opção read -p melhora a experiência ao exibir o prompt na mesma linha da entrada.
+
+Criação e gerenciamento de logs: Você aprendeu a registrar informações em arquivos de log usando redirecionadores. O > cria ou sobrescreve um arquivo, enquanto >> adiciona conteúdo sem perder o que já estava lá. Isso é essencial para rastrear a execução de scripts automatizados.
+
+Execução de scripts: Você precisa dar permissão com chmod +x antes de executar um script com ./nome_do_script.sh.
+
+Esses conceitos formam a base para criar scripts mais dinâmicos e úteis que interagem com usuários e registram suas operações.

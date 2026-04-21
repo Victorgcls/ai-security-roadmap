@@ -1,0 +1,11 @@
+A aula começa recapitulando a arquitetura de rede que você já conhece: a Intranet (setor de desenvolvimento), o Firewall (mediador de segurança), o WAF (proteção e balanceamento de cargas) e a Internet (rede pública).
+
+O foco principal é apresentar dois mecanismos de segurança importantes:
+
+IDS (Sistema de Detecção de Intrusão): detecta invasões ou comportamentos suspeitos na rede.
+
+IPS (Sistema de Prevenção de Intrusão): trabalha junto ao IDS para prevenir ataques, atuando de forma automática.
+
+Juntos, o IDS e o IPS funcionam como o "cérebro" do sistema de segurança. Eles analisam o tráfego, identificam ataques baseados em regras configuradas e ajustam automaticamente o Firewall para bloquear essas ameaças.
+
+Geralmente, ambos ficam localizados no Firewall. No entanto, a aula levanta uma questão importante: mesmo com esses mecanismos em lugar, há um risco interno. Se um funcionário da Intranet sofrer um ataque cibernético, como evitar que esse ataque se espalhe por toda a rede interna?

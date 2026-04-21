@@ -1,0 +1,9 @@
+A aula compara dois modelos de desenvolvimento de software: o modelo antigo em cascata e o modelo moderno DevOps.
+
+No modelo em cascata, o desenvolvimento segue uma sequência linear: requisitos, planejamento, arquitetura e desenvolvimento. Todo o código era desenvolvido antes de ser testado pelo time de QA, o que tornava o processo lento e dificultava a identificação de problemas.
+
+Já o modelo DevOps utiliza a metodologia Agile, dividindo o trabalho em sprints. Isso permite integração contínua, testes frequentes durante o desenvolvimento e interação regular com o cliente e o Product Owner. Os testes de segurança e qualidade são realizados em uma pipeline, garantindo que problemas sejam identificados mais cedo.
+
+A grande diferença em relação à segurança é que no modelo em cascata, as vulnerabilidades eram descobertas tardiamente, aumentando custos e riscos. No modelo DevOps com SSDLC (ciclo de desenvolvimento de software seguro), a segurança é integrada em todas as fases do desenvolvimento, reduzindo significativamente o tempo e o custo de correção de vulnerabilidades.
+
+Em resumo: o SDLC é o ciclo de desenvolvimento tradicional, enquanto o SSDLC incorpora segurança desde o início do processo, tornando o software mais seguro e o desenvolvimento mais eficiente.

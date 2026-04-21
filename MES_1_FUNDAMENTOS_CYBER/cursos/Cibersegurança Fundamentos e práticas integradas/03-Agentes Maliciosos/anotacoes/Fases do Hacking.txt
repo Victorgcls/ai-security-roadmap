@@ -1,0 +1,11 @@
+A aula explora o método que atacantes seguem para explorar sistemas, dividido em várias fases principais:
+
+Reconhecimento: A primeira fase, que pode ser passiva ou ativa. No reconhecimento passivo, informações são coletadas sem interação direta, principalmente por pesquisa. No ativo, há interação com pessoas ou o alvo, como em ataques de engenharia social. Ferramentas como Google Hack permitem buscas específicas para encontrar informações sobre um alvo.
+
+Scanning e coleta de informações: Utilizam-se ferramentas como Nmap e Metasploit para escanear redes, identificar portas abertas, serviços vulneráveis e versões de aplicações. Essas informações ajudam a entender como a aplicação funciona e como pode ser explorada.
+
+Hacking e persistência de acesso: Após acessar uma aplicação, o objetivo é manter o acesso implementando backdoors ou scripts que mantêm a sessão ativa. Isso inclui escalar privilégios para obter mais permissões no sistema.
+
+Apagamento de rastros: Após explorar o ambiente, registros e logs são apagados para esconder a atividade, especialmente em testes de penetração onde o objetivo é demonstrar vulnerabilidades ao cliente.
+
+A aula enfatiza que essa metodologia deve ser aplicada com cuidado e critério, sendo usada tanto por hackers mal-intencionados quanto por profissionais de segurança em testes autorizados.

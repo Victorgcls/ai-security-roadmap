@@ -1,0 +1,11 @@
+A aula aborda permissões avançadas e mecanismos de segurança no Linux, focando em dois temas principais:
+
+ACLs (Listas de Controle de Acesso)
+
+As ACLs permitem definir permissões mais específicas para arquivos e diretórios além das permissões básicas de usuário, grupo e outros. Você pode usar o comando getfacl para visualizar as ACLs de um arquivo e o comando setfacl para modificá-las. Por exemplo, é possível conceder permissão de leitura a um usuário específico sem alterar as permissões gerais do arquivo.
+
+Sticky Bit
+
+O Sticky Bit é uma permissão especial aplicada apenas a diretórios compartilhados. Quando ativado com o comando chmod +t, ele permite que qualquer usuário crie arquivos no diretório, mas apenas o proprietário do diretório pode deletar ou renomear esses arquivos. Isso protege arquivos de serem removidos por outros usuários sem autorização.
+
+Esses recursos são essenciais para gerenciar permissões de forma mais granular e proteger diretórios compartilhados em ambientes Linux com múltiplos usuários.

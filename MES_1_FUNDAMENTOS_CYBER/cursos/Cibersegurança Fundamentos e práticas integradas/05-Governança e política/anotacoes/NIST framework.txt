@@ -1,0 +1,15 @@
+A aula abordou o NIST-CSF, um framework específico para segurança da informação criado pelo NIST, órgão dos Estados Unidos que define padrões de segurança. O objetivo principal é ajudar ambientes a entender riscos e como detectá-los e resolvê-los.
+
+Os componentes principais do NIST-CSF são:
+
+Núcleo: composto por cinco funções principais - identificar riscos, proteger o ambiente, detectar ameaças através de monitoramento, responder a incidentes e recuperar o ambiente através de controles e mitigação.
+
+Implementação em camadas: considera a maturidade do ambiente para definir níveis de implementação, adaptando-se conforme o ambiente já possui controles ou precisa de aspectos mais específicos.
+
+Perfis: permitem entender o contexto do ambiente, como se é financeiro ou de outro setor, para definir controles específicos adequados.
+
+Níveis de maturidade: parcial, formado pelo risco, repetível e adaptável, ajudando a identificar o estágio de segurança do ambiente.
+
+A aula também mencionou que existem outros frameworks do NIST além do CSF, como diretrizes para criptografia, sanitização de mídia e desenvolvimento seguro (SP-8218). A recomendação é começar pelo NIST CSF para entender o contexto geral e depois explorar frameworks mais específicos conforme a necessidade do ambiente.
+
+Copiar texto da Luri para área de transferêcia

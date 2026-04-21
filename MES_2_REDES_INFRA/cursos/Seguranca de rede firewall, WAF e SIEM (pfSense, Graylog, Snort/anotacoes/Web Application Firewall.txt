@@ -1,0 +1,12 @@
+A aula começa com um cenário onde um atacante consegue passar pelo Firewall e acessar a aplicação. Para aumentar a segurança, são apresentadas duas camadas de proteção:
+
+Proxy (lado do cliente): Armazena o IP real do usuário e passa apenas seu próprio IP para a internet, protegendo a identidade do cliente.
+
+Proxy Reverso (lado do servidor): Esconde o IP do servidor web e de dados, passando apenas o IP do proxy reverso para a internet. Além de segurança, oferece três benefícios importantes:
+
+Balanceamento de carga: distribui requisições simultâneas entre múltiplos servidores
+Proteção contra ataques: o IP real do servidor fica oculto
+Geração de logs: registra todo o tráfego para monitoramento
+WAF (Web Application Firewall): Funciona como um proxy reverso e é posicionado entre o Firewall e os servidores. Protege contra ataques DoS (Denial of Service), que são tentativas de derrubar o sistema com múltiplas requisições simultâneas.
+
+Limitação importante: O WAF atua apenas na camada 7 (camada de aplicação) do modelo OSI, protegendo protocolos como HTTP, DNS e FTP. As outras camadas permanecem vulneráveis, exigindo mecanismos de segurança adicionais.

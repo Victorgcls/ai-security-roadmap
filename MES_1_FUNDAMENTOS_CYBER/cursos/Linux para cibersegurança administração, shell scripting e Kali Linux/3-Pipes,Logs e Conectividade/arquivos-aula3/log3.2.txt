@@ -1,0 +1,97 @@
+INFO: Usuário 1234 logou com sucesso.
+INFO: Tentativa de login falha para o usuário 5678.
+Erro: Arquivo 'config.yaml' não encontrado.
+AVISO: Conexão com o banco de dados instável.
+INFO: Transação XYZ iniciada.
+DEBUG: Processando dados da tabela 'pedidos'.
+AVISO: Tempo limite excedido na solicitação API.
+Erro: Permissão negada para o diretório '/var/www/html'.
+INFO: Backup do sistema concluído. OK
+DEBUG: Liberando memória RAM.
+INFO: Usuário 91010 acessou o painel de controle.
+Erro: Falha na validação do formulário de contato.
+INFO: Transação ABC finalizada com sucesso. OK
+AVISO: A versão do software está desatualizada.
+INFO: Processo 'tarefa-1' iniciado.
+Erro: Conexão de rede perdida.
+INFO: O sistema está em estado de espera.
+DEBUG: Cache limpo.
+AVISO: Pouco espaço em disco.
+INFO: Notificação 'novo-email' enviada.
+Erro: Erro fatal na inicialização do servidor.
+INFO: Acesso negado a 'recurso-secreto'.
+DEBUG: Testando a função 'calcularPreco'.
+AVISO: Tentativa de acesso não autorizado de um IP desconhecido.
+INFO: O sistema reiniciou com sucesso. OK
+Erro: Erro de sintaxe no arquivo de configuração.
+INFO: Serviço 'web-server' iniciado. OK
+DEBUG: Verificando as dependências do projeto.
+AVISO: Usuário 'admin' não encontrado.
+INFO: A sessão do usuário 1234 expirou.
+Erro: O recurso 'produto-1' não existe.
+INFO: O log de auditoria foi atualizado.
+DEBUG: Consultando a tabela 'produtos'.
+AVISO: O certificado SSL está prestes a expirar.
+INFO: O trabalho 'relatorio-mensal' foi agendado.
+Erro: Erro de autenticação.
+INFO: O sistema está funcionando normalmente. OK
+DEBUG: Conexão com o banco de dados reestabelecida.
+AVISO: Nova atualização de software disponível.
+INFO: O serviço 'fila-mensagens' foi interrompido.
+Erro: Erro de I/O (entrada/saída) no disco.
+INFO: Tarefa 'limpeza-log' finalizada. OK
+DEBUG: Dados de telemetria enviados para o servidor.
+AVISO: Processo 'tarefa-2' falhou.
+INFO: O servidor web respondeu com o código 200. OK
+Erro: Falha na conexão com o serviço externo.
+INFO: O usuário 'joao.silva' alterou sua senha.
+DEBUG: Validação de email concluída.
+AVISO: Uso de CPU acima do limite.
+INFO: O relatório de vendas foi gerado. OK
+Erro: Erro de serialização de dados.
+INFO: Acesso concedido a 'recurso-publico'.
+DEBUG: O carro passou pela rua.
+AVISO: O processo 'tarefa-3' está lento.
+INFO: Transação finalizada. OK
+Erro: O sistema não responde.
+INFO: A tarefa 'backup-diario' foi iniciada. OK
+DEBUG: A cor do céu é azul.
+AVISO: O banco de dados está sobrecarregado.
+INFO: O serviço 'smtp' foi reiniciado.
+Erro: Erro na leitura de dados do sensor.
+INFO: A instalação do 'pacote-x' foi concluída. OK
+DEBUG: Um curro passou pela rua.
+AVISO: O token de acesso expirou.
+INFO: O usuário 'maria.santos' foi removido.
+Erro: Falha na comunicação entre serviços.
+INFO: O sistema está pronto para uso. OK
+DEBUG: O cooool da água é refrescante.
+AVISO: Tentativa de exclusão de arquivo protegido.
+INFO: O processo 'relatorio-anual' foi finalizado. OK
+Erro: Erro de validação de dados de entrada.
+INFO: O servidor foi desligado com segurança. OK
+DEBUG: Conectando à base de dados.
+AVISO: O firewall está bloqueando o acesso.
+INFO: O sistema está em modo de manutenção.
+Erro: O recurso solicitado não foi encontrado.
+INFO: O cooooooool do vento está forte.
+DEBUG: Acesso à API concluído.
+AVISO: A senha do usuário 'admin' é fraca.
+INFO: O relatório financeiro foi gerado. OK
+Erro: Erro na execução da tarefa agendada.
+INFO: O banco de dados está operacional. OK
+DEBUG: O corpo da mensagem é muito longo.
+AVISO: O serviço 'ftp' está offline.
+INFO: O carro correu muito.
+Erro: Acesso não autorizado.
+INFO: A conexão com o servidor foi bem sucedida. OK
+DEBUG: Validando o login do usuário.
+AVISO: O log de auditoria está cheio.
+INFO: O serviço de monitoramento está ativo.
+Erro: Erro de memória insuficiente.
+INFO: A aplicação foi implantada. OK
+DEBUG: Ocorreu um erro no servidor.
+AVISO: Falha na atualização de software.
+INFO: A sessão do usuário 'suporte' foi criada.
+Erro: Erro de permissão.
+INFO: O sistema reiniciou. OK

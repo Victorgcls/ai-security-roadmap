@@ -1,0 +1,14 @@
+Claro! Aqui está um resumo do conteúdo da aula sobre OpenSSL:
+
+A aula aborda três funcionalidades principais do OpenSSL, um utilitário criptográfico essencial no Linux:
+
+Verificação de integridade de arquivos
+O OpenSSL permite calcular o hash de um arquivo usando o comando dgst. Por exemplo, com openssl dgst -sha256 arquivo.txt, você obtém uma string que funciona como impressão digital do arquivo. Isso garante que o arquivo não foi modificado durante o download ou transferência.
+
+Criptografia e descriptografia de arquivos
+Você pode criptografar arquivos com o algoritmo AES-256-CBC usando openssl enc -aes-256-cbc -e -in arquivo.txt -out arquivo.enc. O OpenSSL solicita uma senha para criptografar. Para descriptografar, usa-se openssl enc -aes-256-cbc -d -in arquivo.enc -out arquivo2.txt com a mesma senha. É importante ressaltar que uma senha fraca compromete a segurança, mesmo com um algoritmo robusto.
+
+Inspeção de certificados digitais
+Com o padrão X.509, você pode examinar certificados usando openssl x509 -in certificado.crt -text -noout. Isso exibe informações como versão, número de série, autoridade certificadora, validade e extensões do certificado.
+
+A aula encerra a Aula 3 e prepara para a próxima, que abordará shell scripting e automação de tarefas.

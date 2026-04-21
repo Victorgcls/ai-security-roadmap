@@ -1,0 +1,11 @@
+A aula aborda como gerenciar proprietários e grupos de arquivos no Linux, indo além do comando chmod visto anteriormente.
+
+Os principais comandos apresentados são:
+
+chown - altera o proprietário de um arquivo. Você pode usá-lo sozinho para mudar apenas o proprietário, ou com a sintaxe proprietário:grupo para alterar ambos simultaneamente.
+
+chgrp - altera o grupo proprietário de um arquivo.
+
+A aula também explica o conceito de máscara de permissão (umask). Quando você cria um arquivo ou diretório, ele não herda automaticamente as permissões do diretório pai. Em vez disso, o sistema aplica uma máscara padrão que subtrai valores de permissões iniciais. Para arquivos, começa-se com 666 (leitura e escrita para todos) e subtrai-se a máscara. Para diretórios, começa-se com 777 (leitura, escrita e execução para todos) e também subtrai-se a máscara.
+
+O exemplo prático mostrou como alterar o proprietário e grupo do arquivo teste6, demonstrando que essas mudanças podem ser feitas individualmente ou em conjunto.

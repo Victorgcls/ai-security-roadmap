@@ -1,0 +1,17 @@
+A aula apresenta os principais comandos para navegar e explorar o sistema de arquivos no Linux:
+
+pwd - Mostra o diretório atual em que você está trabalhando.
+
+ls - Lista os itens do diretório. Neste emulador, itens em azul são diretórios e em branco são arquivos.
+
+cd - Permite mudar de diretório. Você pode usar caminhos relativos (como "cd teste"), voltar um nível com "cd ..", usar caminhos absolutos (como "cd /tmp") ou retornar ao diretório home com "cd ~".
+
+ls -l - Exibe uma listagem detalhada com permissões, proprietário, grupo, data de modificação e nome do arquivo.
+
+ls -lh - Similar ao anterior, mas mostra os tamanhos em formato mais legível para humanos (como K, M, G).
+
+mkdir - Cria um novo diretório.
+
+tree - Exibe a estrutura de diretórios de forma hierárquica e visual. Você pode usar "tree -L 1" para limitar a profundidade da visualização.
+
+Esses comandos são fundamentais para se orientar e trabalhar com o sistema de arquivos no Linux

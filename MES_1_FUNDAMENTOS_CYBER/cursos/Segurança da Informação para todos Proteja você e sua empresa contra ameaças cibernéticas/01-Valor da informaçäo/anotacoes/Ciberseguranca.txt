@@ -1,0 +1,12 @@
+A aula começa destacando como nossas vidas estão cada vez mais digitais. Usamos smartphones e internet para praticamente tudo: redes sociais, comunicação, serviços bancários, educação e até consultas médicas. Para acessar esses serviços, precisamos compartilhar nossos dados pessoais com sites e aplicativos.
+
+Isso traz uma questão importante: como proteger essas informações digitais de acessos indevidos?
+
+A aula então apresenta o conceito de cibersegurança, que é uma sub-área especializada da segurança da informação. A cibersegurança se concentra em proteger três coisas principais:
+
+Sistemas de informação (aplicativos e sites)
+Dispositivos eletrônicos (computadores, smartphones, tablets)
+Redes de computadores
+O instrutor usa uma analogia interessante: a cibersegurança funciona como proteger um castelo. Não é suficiente apenas construir estruturas fortes. É necessário criar várias camadas de proteção — muros, torres de vigilância, localização isolada — cada uma com seu próprio objetivo. O mesmo acontece com a segurança digital: múltiplas camadas de proteção para dificultar ataques e impedir acessos não autorizados.
+
+O objetivo final é construir meios de proteção para sistemas eletrônicos, tanto do ponto de vista pessoal quanto corporativo.

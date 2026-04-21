@@ -1,0 +1,11 @@
+O papel do profissional de AppSec: É responsável por proteger aplicações contra ameaças e vulnerabilidades, atuando como engenheiro de segurança que ajuda os desenvolvedores a compreenderem questões de segurança.
+
+Proteção em ambiente escalável: Com a internet, as aplicações web e móveis se tornaram escaláveis, aumentando a superfície de ataque. O profissional de AppSec precisa garantir segurança considerando a arquitetura, entendendo o código e realizando treinamentos.
+
+Impacto das falhas de segurança: Vulnerabilidades exploradas causam perda de confiança no produto, gerando impactos financeiros, legais e danos à reputação. Por isso, é crucial manter o ambiente seguro de forma proativa.
+
+Aumento de ameaças e complexidade: Após a pandemia, houve crescimento de ataques e maior exposição. As aplicações ficaram mais complexas, com mais bibliotecas e dependências, enquanto o desenvolvimento acelerou, aumentando os riscos de vulnerabilidades.
+
+Segurança desde o início: Incorporar segurança desde a fase de requisitos é fundamental. Resolver problemas de segurança no início do desenvolvimento é muito mais rápido e barato do que corrigir vulnerabilidades em produção, que exigem rollback, correções urgentes e análise de segurança.
+
+A mensagem central é que desenvolvimento seguro significa incorporar cultura de segurança nos times desde o começo.

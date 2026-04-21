@@ -1,0 +1,18 @@
+Variáveis especiais do shell script:
+
+$0 indica o nome do script
+$1, $2, $3 e assim por diante indicam os argumentos passados
+$? indica a saída do último comando executado, onde 0 significa sucesso
+Tratamento de erros com if-else:
+Você viu como verificar se um comando foi bem-sucedido usando a variável $?. Se não for igual a 0, significa que houve erro. Nesse caso, você pode exibir uma mensagem e sair do script com exit 1.
+
+Operador || para tratamento de erros:
+Uma forma mais enxuta de tratar erros é usar o operador ||, que executa um comando alternativo caso o anterior falhe.
+
+Criação de logs:
+Você aprendeu a redirecionar as saídas importantes do script para um arquivo de log usando >>. Isso permite registrar eventos, erros e datas de execução para monitoramento posterior.
+
+Depuração com -x:
+Adicionando -x no shebang (#!/bin/bash -x), o script exibe toda a execução e depuração na tela, facilitando a identificação de erros em scripts mais complexos.
+
+Basicamente, você viu como criar scripts mais robustos, que registram o que fazem e facilitam a identificação de problemas quando algo dá errado.

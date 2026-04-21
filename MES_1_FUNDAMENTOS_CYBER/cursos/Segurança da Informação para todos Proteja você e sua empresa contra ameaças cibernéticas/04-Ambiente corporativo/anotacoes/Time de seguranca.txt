@@ -1,0 +1,12 @@
+A aula aborda a importância de um time de segurança nas empresas. O conteúdo principal é:
+
+Ataques cada vez mais frequentes: As tentativas de ataques cibernéticos contra empresas aumentaram significativamente nos últimos anos. Os criminosos não atacam apenas sistemas, mas também usam técnicas como phishing e engenharia social contra os colaboradores.
+
+Para quem reportar: Se você trabalha em uma empresa e sofre uma tentativa de ataque, recebe um e-mail suspeito ou percebe algo estranho, deve reportar para o time especializado em segurança da informação da sua empresa. Eles saberão orientar sobre os cuidados necessários.
+
+Composição do time de segurança: O tamanho e a estrutura variam conforme a empresa. Em empresas maiores, pode haver um CISO (Chief Information Security Officer) e diferentes especialistas, como:
+
+Blue Team: focado em defesa e proteção dos sistemas
+Red Team: focado em testes de ataque para encontrar vulnerabilidades
+DevSecOps: responsável por integrar segurança no desenvolvimento de aplicações
+Conclusão: Existe um time especializado pronto para ajudar. Se você suspeitar de um ataque ou vazamento de dados, basta entrar em contato com essas pessoas, que são as especialistas para orientar as ações necessárias.

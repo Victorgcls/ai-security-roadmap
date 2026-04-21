@@ -1,0 +1,17 @@
+A aula aborda a importância e o uso do gerenciador de pacotes apt no Ubuntu. Pacotes são arquivos compactados que contêm a aplicação, suas dependências e arquivos de configuração necessários.
+
+Os principais comandos apresentados foram:
+
+apt update - Atualiza a lista de pacotes entrando em contato com os repositórios oficiais do Ubuntu para obter as versões mais recentes disponíveis.
+
+apt upgrade - Atualiza todos os pacotes já instalados no sistema, selecionando novas dependências e informando quantos pacotes serão atualizados.
+
+apt install - Instala novos aplicativos. Por exemplo, sudo apt install htop instala o htop com todas as suas dependências e configurações.
+
+apt search - Permite pesquisar por pacotes quando você não tem certeza do nome exato. Por exemplo, sudo apt search python lista todas as opções relacionadas ao Python.
+
+apt remove - Remove um pacote, mas deixa seus arquivos de configuração no sistema.
+
+apt purge - Remove um pacote e todas as suas configurações, limpando completamente o sistema.
+
+Todos esses comandos devem ser precedidos por sudo, pois são operações administrativas. O apt é apresentado como um gerenciador prático e eficaz para manter o sistema seguro e atualizado.

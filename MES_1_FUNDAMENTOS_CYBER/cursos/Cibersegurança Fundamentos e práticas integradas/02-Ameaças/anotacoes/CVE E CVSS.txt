@@ -1,0 +1,13 @@
+A aula aborda como as vulnerabilidades são classificadas e padronizadas na segurança da informação.
+
+Começamos com um exemplo prático: uma aplicação Java vulnerável ao Log4J, onde é possível executar comandos remotamente no servidor através de uma biblioteca vulnerável. Isso demonstra uma vulnerabilidade de alto impacto e fácil exploração.
+
+Em seguida, exploramos três conceitos principais:
+
+CVE (Common Vulnerabilities and Exposures): É um banco de dados que padroniza vulnerabilidades conhecidas usando um formato de ID com ano e número único. Permite identificar vulnerabilidades específicas e criar relatórios sobre elas.
+
+CWE (Common Weakness Enumeration): Diferente do CVE, o CWE classifica as fraquezas comuns encontradas em sistemas de forma geral, não em vulnerabilidades específicas. É importante para desenvolvedores entenderem as principais falhas e desenvolver software de forma segura.
+
+CVSS (Common Vulnerability Scoring System): É um sistema de pontuação que atribui uma nota à vulnerabilidade considerando diversos vetores, como como o ataque ocorre, sua complexidade, privilégios necessários e impactos potenciais. A versão 4.0 é mais contextual, considerando o ambiente específico onde a vulnerabilidade existe.
+
+A aula também exemplifica um ataque XSS (Cross-site Scripting) e enfatiza que a segurança deve ser proativa, ou seja, os desenvolvedores devem conhecer as principais falhas para evitá-las antes que se tornem problemas reais.

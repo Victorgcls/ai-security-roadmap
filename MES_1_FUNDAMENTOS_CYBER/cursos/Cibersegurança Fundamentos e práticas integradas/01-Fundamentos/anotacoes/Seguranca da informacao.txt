@@ -1,0 +1,13 @@
+A aula introduz o curso de Cibersegurança com foco em Fundamentos e Práticas Integradas. Michelle Mesquita, a instrutora, apresenta sua trajetória profissional, que começou em Desenvolvimento de Software e evoluiu para Segurança Ofensiva e, posteriormente, para Application Security DevSecOps.
+
+Os principais tópicos abordados são:
+
+Os Pilares da Segurança da Informação (CIA): Confidencialidade (acesso restrito), Integridade (dados não alterados) e Disponibilidade (acesso quando necessário). A quebra de qualquer um desses pilares resulta em vulnerabilidades.
+
+Importância da Informação: Dados são ativos valiosos para empresas e indivíduos. Vazamentos podem causar prejuízos financeiros significativos.
+
+Equilíbrio entre Segurança, Usabilidade e Funcionalidade: Segurança não deve ser um obstáculo, mas sim uma aliada. É necessário equilibrar proteção com facilidade de uso e operação da aplicação.
+
+Evolução da Cibersegurança: Passou de segurança física (anos 60-70), para proteção contra malware (anos 80-90), políticas empresariais (anos 2000), cloud security (anos 2010), e atualmente integração com DevSecOps, Zero Trust e proteção contra IA.
+
+DevSecOps: Integra segurança em todas as etapas do desenvolvimento e operação de software, desde análise de código até produção.

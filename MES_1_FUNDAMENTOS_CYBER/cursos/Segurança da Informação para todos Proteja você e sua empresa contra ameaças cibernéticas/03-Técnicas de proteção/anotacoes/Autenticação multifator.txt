@@ -1,0 +1,20 @@
+A aula começa questionando se uma senha forte é realmente suficiente para garantir segurança. Para responder isso, o instrutor apresenta três casos reais onde senhas foram expostas acidentalmente:
+
+Jeffrey Wong no Havaí: uma foto publicada nas redes sociais mostrava uma senha anotada em um post-it, que foi usada para enviar um alerta falso de míssil balístico para toda a população.
+
+Super Bowl: durante uma reportagem sobre segurança transmitida na TV, a senha de acesso à internet ficou visível nas telas de monitoramento.
+
+Copa do Mundo 2014: uma foto do gabinete de segurança publicada em jornal exibia a senha de Wi-Fi.
+
+Esses exemplos demonstram que apenas ter uma senha forte não é suficiente, pois senhas podem vazar acidentalmente ou ser descobertas.
+
+A solução apresentada é a autenticação multifator, que combina diferentes fatores de autenticação:
+
+Algo que você sabe (senha)
+Algo que você tem (cartão, dispositivo)
+Algo que você é (biometria, impressão digital)
+Um exemplo clássico é o caixa eletrônico, que exige cartão, senha e biometria.
+
+A aula também aborda a autenticação de dois fatores (2FA), mais comum em aplicativos e sites, que geralmente usa o celular como segundo fator. O Google Authenticator é um aplicativo recomendado para isso.
+
+Por fim, são apresentadas recomendações práticas: habilitar 2FA sempre que possível, usar aplicativos em vez de SMS, e proteger bem o celular.

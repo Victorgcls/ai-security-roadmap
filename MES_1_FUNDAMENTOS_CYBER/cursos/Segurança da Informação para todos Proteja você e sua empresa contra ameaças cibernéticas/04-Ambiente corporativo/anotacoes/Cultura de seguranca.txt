@@ -1,0 +1,13 @@
+A aula reforça que a segurança da informação não é responsabilidade exclusiva do time de tecnologia. Todas as pessoas na empresa são responsáveis, pois todas podem ser alvo de criminosos e sofrer ataques como phishing e malware.
+
+Para construir uma cultura de segurança efetiva, é necessário:
+
+Conscientização: as pessoas precisam entender as ameaças, riscos e vulnerabilidades, e saber como se proteger.
+
+Comunicação aberta: criar um ambiente onde as pessoas se sintam à vontade para relatar suspeitas de ataques ou vazamentos sem medo de punição.
+
+Canais de comunicação: estabelecer formas para que as pessoas reportem links maliciosos, tentativas de phishing ou engenharia social.
+
+Um ponto importante é que segurança da informação não é um produto que se instala uma vez e está resolvido. É um processo contínuo que exige atualização constante, treinamentos regulares e acompanhamento das novas tendências de ataques, especialmente porque pessoas entram e saem da empresa constantemente.
+
+A conclusão é que toda a organização deve se preocupar com segurança, não apenas a área de tecnologia, e isso deve fazer parte da cultura diária da empresa.

@@ -1,0 +1,15 @@
+Nesta aula, você aprendeu as principais terminologias utilizadas na área de segurança da informação, que serão essenciais para se comunicar com a equipe de desenvolvimento da empresa X-Corp.
+
+A aula começou contextualizando um cenário real: um ataque a um banco chamado X-Bank, onde dados de clientes foram roubados. A partir desse exemplo, foram apresentados os atores envolvidos em um incidente de segurança:
+
+Atacante é quem realiza o ataque, Alvo é a empresa ou sistema atacado, Usuário é quem utiliza o sistema, e Vítima é quem sofre prejuízo.
+
+Em seguida, foram explicados os conceitos técnicos fundamentais:
+
+Vulnerabilidade é uma fraqueza ou brecha no sistema que pode ser explorada. Risco é a possível perda ou dano que pode ocorrer se uma vulnerabilidade for explorada. Ameaça é tudo aquilo que pode usar a vulnerabilidade para atacar, podendo ser um criminoso externo ou um Insider (pessoa interna corrompida).
+
+A aula também abordou o conceito de Exploit, que é um conjunto de técnicas e códigos que exploram uma vulnerabilidade. Quando esse exploit está disponível publicamente, chamamos de Exploit Público, o que significa que qualquer criminoso pode utilizá-lo.
+
+Por fim, foi apresentado o conceito de CVE (Common Vulnerabilities and Exposures), que é um identificador único atribuído a cada vulnerabilidade catalogada por organizações como Mitre.org e Nist.gov.
+
+Todos esses termos serão fundamentais para o trabalho de modelagem de ameaças que será realizado na empresa X-Corp.

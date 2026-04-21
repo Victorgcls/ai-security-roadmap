@@ -1,0 +1,11 @@
+A aula aborda os pilares adicionais da segurança da informação além da tríade confidencialidade, integridade e disponibilidade. Os principais tópicos são:
+
+Autenticidade: Garante que a informação é confiável e foi realmente realizada por você. Um exemplo prático é a assinatura digital, como a usada em plataformas como Docsign, que comprova quem executou a ação.
+
+Não repúdio: Assegura que uma pessoa não possa negar ter realizado uma ação. Isso é fundamental em ambientes onde logs e monitoramento são essenciais para rastrear quem fez o quê.
+
+Monitoramento e auditoria: São cruciais para identificar quem realizou uma ação, quando e onde. A aula demonstra isso através de uma aplicação Flask em Python, mostrando como os logs registram informações como IP, horário e status das requisições.
+
+Accountability (responsabilidade): Está ligada à auditoria e permite rastrear o comportamento do usuário, identificando quem realizou ações no sistema e por quê.
+
+A aula enfatiza que quebrar qualquer um desses princípios resulta em vulnerabilidades. Portanto, é essencial ter uma auditoria robusta e compreender que a segurança vai além da CIA, incluindo autenticidade, não repúdio e accountability para proteger adequadamente as informações.

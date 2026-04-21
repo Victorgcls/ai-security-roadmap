@@ -1,0 +1,14 @@
+A aula aborda como funcionam as permissões de arquivos e diretórios no Linux, divididas em três categorias: proprietário, grupo e outros usuários.
+
+Quando você usa o comando ls -l, a primeira coluna mostra as permissões. O primeiro caractere indica o tipo (d para diretório, traço para arquivo comum). Os próximos 9 caracteres representam as permissões em três grupos de três:
+
+Primeiros 3 caracteres: permissões do proprietário (r = leitura, w = escrita, x = execução)
+Próximos 3 caracteres: permissões do grupo
+Últimos 3 caracteres: permissões de outros usuários
+Para modificar permissões, você usa o comando chmod de duas formas:
+
+Com letras: chmod u+x arquivo (adiciona execução ao proprietário), chmod g-w arquivo (remove escrita do grupo), onde u = proprietário, g = grupo, o = outros
+
+Com valores octais: cada permissão tem um valor (r=4, w=2, x=1). Você combina esses valores para cada categoria. Por exemplo, chmod 700 arquivo dá permissão total (7) ao proprietário e nenhuma (0) ao grupo e outros.
+
+A aula recomenda praticar esses comandos e consultar o manual com man chmod para aprender mais detalhes.

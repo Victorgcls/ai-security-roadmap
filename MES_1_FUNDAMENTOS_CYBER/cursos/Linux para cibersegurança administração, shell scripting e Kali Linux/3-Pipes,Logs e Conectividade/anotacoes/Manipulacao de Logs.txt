@@ -1,0 +1,11 @@
+Os principais comandos abordados foram:
+
+tail: Usado para visualizar o final de um arquivo. Com o parâmetro -f, ele segue o arquivo em tempo real, permitindo acompanhar novos logs conforme são gerados no sistema, como no /var/log/syslog.
+
+less: Ideal para navegar em arquivos de log muito grandes sem sobrecarregar a memória. Permite buscar informações específicas digitando / seguido do termo desejado e usar n para avançar entre as ocorrências.
+
+grep: Filtra linhas que contêm uma string específica. Você aprendeu variações úteis como -C (contexto), -B (linhas anteriores) e -A (linhas posteriores), que mostram o que estava acontecendo ao redor do evento buscado.
+
+Pipes e filtros avançados: A aula mostrou como combinar múltiplos comandos usando pipes. Um exemplo prático foi usar grep, awk, sort e uniq juntos para extrair campos específicos, remover duplicatas, contar ocorrências e ordenar os resultados de forma reversa.
+
+O objetivo central é capacitá-lo a automatizar tarefas de análise de logs, habilidade essencial para profissionais de cibersegurança que precisam investigar incidentes e entender o que está acontecendo nos sistemas.

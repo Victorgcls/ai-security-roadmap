@@ -1,0 +1,9 @@
+ aula aborda diferentes tipos de controles de segurança, focando em como reduzir riscos e a probabilidade de ataques acontecerem.
+
+Os controles dissuasivos têm como objetivo desencorajar tentativas de ataque. Fisicamente, isso pode ser feito através de monitoramento de pessoas, placas indicando vigilância, segurança armada, cadeados e fechaduras. No ambiente digital, mensagens legais em sites e avisos de monitoramento servem para o mesmo propósito.
+
+Os controles detectivos identificam quando um risco está sendo explorado, permitindo uma resposta rápida. Exemplos incluem câmeras de segurança, monitoramento de rede através de logs e ferramentas como o Splunk, que alertam a equipe sobre atividades maliciosas.
+
+Os controles preventivos impedem a exploração de riscos. Firewalls protegem contra ataques de negação de serviço, antivírus bloqueiam malware, criptografia como TLS protege dados em trânsito, e autenticação com múltiplos fatores garante que apenas usuários autorizados acessem o sistema.
+
+A aula também diferencia três categorias de controles: físicos (portões, câmeras), técnicos (firewalls, antivírus, desenvolvimento seguro) e administrativos (políticas, procedimentos e separação de responsabilidades). A separação de responsabilidades é essencial, como quando desenvolvedores juniores não têm acesso a dados sensíveis de produção, ou quando apenas times de DevOps colocam aplicações em produção.

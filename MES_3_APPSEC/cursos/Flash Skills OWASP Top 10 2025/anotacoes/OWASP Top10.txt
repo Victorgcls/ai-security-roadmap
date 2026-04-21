@@ -1,0 +1,9 @@
+A aula apresenta o OWASP Top 10, um dos principais projetos da OWASP. Trata-se de uma lista das 10 vulnerabilidades mais comuns encontradas em aplicações web ao redor do mundo, funcionando como um documento de conscientização e consenso baseado em pesquisa.
+
+O Top 10 é atualizado periodicamente. A última versão final publicada é de 2021, e atualmente existe uma versão de 2025 em fase de ajustes pela comunidade. O processo de elaboração é complexo e envolve meses de trabalho, incluindo análise de dados do CVE, relatórios de ferramentas de testes automatizados como DAST e SAST, e uso de machine learning para categorizar as vulnerabilidades.
+
+A OWASP utiliza uma abordagem equilibrada: seleciona 8 categorias com base em dados quantitativos e 2 com base em pesquisa com a comunidade. Essa filosofia é "data informed" (informado por dados), não "data driven" (guiado por dados), reconhecendo que os dados olham para o passado, enquanto especialistas antecipam tendências emergentes.
+
+Um ponto importante é que o Top 10 representa um piso, não um teto. Não é a segurança completa, mas o ponto de partida mínimo necessário para proteger uma aplicação.
+
+A aula também explora o site da OWASP, mostrando como navegar pelo projeto Top 10 e acessar informações detalhadas sobre cada vulnerabilidade.

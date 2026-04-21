@@ -1,0 +1,7 @@
+A aula apresenta a metodologia que será usada ao longo do curso para analisar a segurança de um sistema. O contexto é que você foi contratado para ajudar a empresa X-Corp, que está desenvolvendo um e-commerce, a identificar possíveis problemas de segurança.
+
+Para realizar essa análise de forma estruturada e confiável, você utilizará o Threat Modeling, que é um processo para desenhar o fluxo de software, entender as entregas de negócios e identificar, compreender e mitigar possíveis problemas de segurança.
+
+A metodologia específica que será seguida é o OWASP Threat Modeling Process, desenvolvido pela OWASP, uma fundação sem fins lucrativos reconhecida mundialmente por trabalhar na melhoria da segurança de software.
+
+Portanto, ao longo do curso, você seguirá esse processo validado pela comunidade de segurança para guiar suas atividades de análise e validação de segurança na X-Corp.

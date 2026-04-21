@@ -1,0 +1,15 @@
+A aula aborda o uso do grep com expressões regulares para filtrar informações em arquivos de texto, especialmente útil em cibersegurança ao trabalhar com logs.
+
+Os principais tópicos cobertos são:
+
+Grep com regex estendido (-E): Você aprende a usar o acento circunflexo (^) para buscar linhas que começam com uma palavra específica, e o cifrão ($) para encontrar linhas que terminam com uma expressão.
+
+Coringas e quantificadores: O ponto (.) funciona como coringa para um único caractere, enquanto o sinal de mais (+) permite encontrar um ou mais caracteres em sequência.
+
+Classes de caracteres: Você pode usar colchetes para definir um conjunto de caracteres possíveis, como [ou] para encontrar "o" ou "u" em uma posição específica.
+
+Quantificadores numéricos: A sintaxe {n} ou {n,m} permite especificar exatamente quantas vezes um padrão deve aparecer, útil para encontrar números de telefone ou endereços IP.
+
+Aplicações práticas: A aula demonstra como extrair números de telefone com 8 dígitos e endereços IP usando padrões como [0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.
+
+O objetivo é mostrar como expressões regulares funcionam como uma "lupa" poderosa para buscas precisas em grandes volumes de dados.

@@ -1,0 +1,7 @@
+A aula começa reforçando que todos os conceitos de segurança abordados no curso (vulnerabilidades, malware, phishing, etc.) também se aplicam ao ambiente corporativo. No entanto, a segurança em empresas é muito mais complexa do que em nível pessoal, pois envolve múltiplas camadas: dispositivos eletrônicos, sistemas de informação, serviços em nuvem, servidores, redes de computadores e dados de funcionários e clientes.
+
+A aula apresenta casos reais que demonstram a importância dessa preocupação. Uma pesquisa de 2023 mostrou que quase 70% das empresas no Brasil sofreram ataques cibernéticos com sequestro de dados em 2022. O exemplo da Americanas ilustra o impacto devastador: um ataque hacker deixou o site fora do ar por cinco dias, causando prejuízo de quase um bilhão de reais.
+
+Os principais riscos que as empresas enfrentam incluem impacto financeiro, danos à imagem e reputação, roubo de dados e interrupção das atividades. Por isso, o foco deve estar na continuidade do negócio.
+
+A aula também apresenta o framework NIST, uma metodologia dos Estados Unidos que orienta a segurança corporativa em cinco etapas: Identificar ameaças, Proteger sistemas, Detectar ataques, Responder a incidentes e Recuperar-se. É um framework flexível aplicável a empresas de qualquer tamanho.

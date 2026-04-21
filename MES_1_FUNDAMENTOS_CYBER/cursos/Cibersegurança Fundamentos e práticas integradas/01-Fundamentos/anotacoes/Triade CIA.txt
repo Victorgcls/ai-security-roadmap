@@ -1,0 +1,13 @@
+Confidencialidade
+
+Refere-se ao acesso restrito de informações apenas a pessoas autorizadas. A aula exemplifica com contas bancárias, onde é necessário fornecer credenciais como senha e token para acessar dados sensíveis. Para garantir confidencialidade, utiliza-se autenticação (login e senha) e autenticação multifator, que inclui biometria, reconhecimento facial e tokens temporários. Isso evita que pessoas não autorizadas acessem informações e também previne personificação de usuários.
+
+Integridade
+
+Significa manter os dados completos e sem alterações não autorizadas. A aula explica que senhas devem ser armazenadas como hash (um algoritmo que converte dados em formato irreversível) em vez de texto simples. Para verificar se um arquivo não foi alterado, usa-se SHA-256, comparando o hash calculado com o fornecido pelo distribuidor. Assinaturas digitais também garantem autenticidade e integridade dos dados.
+
+Disponibilidade
+
+Refere-se à capacidade de acessar informações quando autorizado. A aula menciona que ataques de negação de serviço podem impedir o acesso, por isso utiliza-se redundância de servidores e balanceadores de carga para distribuir requisições e manter o serviço sempre acessível.
+
+Esses três pilares trabalham juntos para proteger a segurança da informação.

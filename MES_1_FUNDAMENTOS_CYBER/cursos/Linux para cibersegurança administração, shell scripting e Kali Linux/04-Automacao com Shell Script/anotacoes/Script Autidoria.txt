@@ -1,0 +1,17 @@
+A aula apresenta o desenvolvimento de um script de auditoria profissional que verifica serviços, certificados SSL e identifica arquivos antigos no servidor.
+
+O script começa com a criação de um arquivo de log com data no nome, usando a variável LOG_FILE. Em seguida, define o serviço a ser auditado (neste caso, google.com) e registra o início da auditoria.
+
+A estrutura principal é baseada em três funções:
+
+A função checar_status utiliza curl para verificar se o serviço está online, registrando o resultado no log e encerrando o script com erro caso o serviço esteja indisponível.
+
+A função checar_ssl extrai a data de expiração do certificado SSL usando openssl, verificando se o certificado é válido e registrando a data de validade no log.
+
+A função encontrar_arquivos busca por arquivos com mais de 30 dias de idade usando o comando find, listando-os no arquivo de log.
+
+Após declarar as funções, o script as chama em sequência e finaliza com uma mensagem informando que a auditoria foi concluída e indicando onde verificar o log.
+
+A aula também aborda a importância de comentários no código, a permissão de execução com chmod, a correção de um erro de redirecionamento ambíguo relacionado ao formato da data, e demonstra a execução prática do script.
+
+Por fim, destaca a vantagem da modularização através de funções, facilitando manutenção e adição de novas funcionalidades.

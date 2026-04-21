@@ -1,0 +1,18 @@
+A aula é uma introdução ao curso sobre OWASP Top 10 e codificação segura. O instrutor apresenta os principais objetivos:
+
+O que será abordado:
+
+As principais vulnerabilidades em aplicações e como mitigá-las
+A importância da codificação segura como camada fundamental de proteção
+Como analisar aplicações em busca de vulnerabilidades e corrigi-las
+Temas principais do curso:
+
+Tratamento adequado de inputs e pontos de entrada
+Implementação de tratamento de erros eficaz para não expor informações sensíveis
+Encoding de caracteres para prevenir injeção de códigos maliciosos
+Boas práticas em autenticação e autorização
+Gestão contínua de componentes e bibliotecas para evitar vulnerabilidades
+Objetivo geral:
+Ajudar a equipe de desenvolvimento a incorporar uma cultura de desenvolvimento seguro no ciclo de desenvolvimento do software, entendendo como as vulnerabilidades surgem e como corrigi-las de forma prática.
+
+Basicamente, o curso vai te preparar para identificar e mitigar as principais vulnerabilidades que podem aparecer no seu código!

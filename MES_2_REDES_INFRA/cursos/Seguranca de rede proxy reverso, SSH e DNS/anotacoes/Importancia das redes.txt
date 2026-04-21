@@ -1,0 +1,7 @@
+A aula introduz a importância das redes no contexto da cibersegurança. O instrutor explica que as redes são fundamentais porque todos os sistemas que precisamos proteger - sejam data centers, empresas ou residências - possuem diversos dispositivos interconectados que trocam dados constantemente. As redes funcionam como o sistema circulatório do mundo digital.
+
+Em seguida, a aula apresenta as redes como o principal campo de batalha no ciberespaço, onde diversas ameaças podem ocorrer, como engenharia social, phishing, malwares, vazamentos de dados e ataques de negação de serviço.
+
+Por fim, o instrutor menciona que o curso abordará as barreiras e soluções de segurança disponíveis para proteger as redes, citando exemplos como firewalls, IDS/IPS (dispositivos para detectar e responder a ameaças), VPNs (para comunicação segura) e SIEM (para correlacionar logs e eventos).
+
+A aula conclui informando que os próximos vídeos abordarão os conceitos básicos dos modelos padronizados que serviram de base para o desenvolvimento de protocolos e dispositivos de rede.

@@ -1,0 +1,17 @@
+A aula aborda as ameaças cibernéticas, focando especialmente em softwares maliciosos, também conhecidos como malwares. Um malware é um programa desenvolvido com objetivo malicioso, diferente dos softwares convencionais que nos ajudam com tarefas.
+
+A aula apresenta as principais categorias de malwares:
+
+Vírus - programas que prejudicam um ou mais dos pilares de segurança da informação (confidencialidade, integridade ou disponibilidade).
+
+Trojan - funciona como o cavalo de Troia, disfarçado de software útil, mas contém código malicioso oculto que pode roubar ou danificar seus dados.
+
+Worm - um verme digital que se propaga automaticamente pela rede, infectando múltiplos dispositivos e sendo especialmente perigoso em ambientes empresariais.
+
+Spyware - espiona suas atividades, incluindo o Keylogger que registra tudo o que você digita.
+
+Adware - exibe pop-ups com anúncios para gerar lucro ou direcioná-lo para sites maliciosos.
+
+Ransomware - um tipo tão perigoso que merece discussão separada.
+
+A aula também destaca que o fator humano é o elo fraco na segurança, pois as pessoas são frequentemente o alvo dos ataques. Por fim, apresenta recomendações práticas: não baixe ou execute arquivos suspeitos e utilize um antivírus para se proteger.

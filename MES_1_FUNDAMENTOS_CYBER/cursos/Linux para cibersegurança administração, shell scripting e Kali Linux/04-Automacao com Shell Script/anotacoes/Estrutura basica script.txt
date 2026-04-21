@@ -1,0 +1,13 @@
+Shebang e estrutura inicial
+Todo script começa com #!/bin/bash, que indica ao sistema como interpretar o código. É recomendável adicionar comentários com informações como autor, data, contato e versão para documentar o script adequadamente.
+
+Executando um script
+Para tornar um script executável, você precisa usar chmod +x nome_do_script.sh. Depois, execute-o com ./nome_do_script.sh. O comando echo é usado para exibir mensagens na tela.
+
+Variáveis declaradas no código
+Você pode criar variáveis atribuindo valores a elas, como NOME="Aluno". Para usar a variável, chame-a com o símbolo $ na frente, por exemplo, echo "Olá, $NOME!".
+
+Argumentos de linha de comando
+Você pode passar argumentos ao executar o script. $0 representa o nome do script, $1 é o primeiro argumento, $2 é o segundo, e assim por diante. Isso permite que o script receba dados dinamicamente quando é executado.
+
+Esses conceitos formam a base para criar scripts mais complexos e interativos nas próximas aulas.

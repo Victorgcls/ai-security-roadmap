@@ -1,0 +1,9 @@
+A aula começa explicando que riscos são efeitos de incerteza nos objetivos, podendo ser positivos ou negativos. No contexto de segurança da informação, eles geralmente representam ameaças, como vazamentos de dados.
+
+Para proteger os dados, é necessário implementar controles de segurança, como criptografia em bancos de dados e segmentação de acesso. Por exemplo, desenvolvedores não devem ter o mesmo perfil de acesso que um DBA (administrador de banco de dados).
+
+A aula apresenta um ciclo de gestão de riscos que funciona assim: você identifica o risco (como uma senha exposta no GitHub), analisa seu impacto e probabilidade, avalia e prioriza, e então toma medidas para tratá-lo, seja eliminando, mitigando ou contornando o problema.
+
+Existem vários tipos de risco: falhas internas, fraudes, desastres, riscos financeiros, riscos de conformidade (não seguir leis), riscos estratégicos e riscos cibernéticos. Um exemplo importante é o risco reputacional, onde um vazamento de dados prejudica a imagem da empresa.
+
+Por fim, a aula destaca que a gestão de riscos deve estar alinhada com a estratégia de negócio, ajudando a reduzir ameaças, proteger dados continuamente e garantir conformidade com leis como a LGPD, evitando multas e problemas legais.

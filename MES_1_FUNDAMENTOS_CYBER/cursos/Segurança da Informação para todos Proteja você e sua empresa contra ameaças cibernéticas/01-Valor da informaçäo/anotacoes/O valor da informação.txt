@@ -1,0 +1,7 @@
+A aula aborda a importância da informação na cibersegurança. Começamos entendendo que produzimos informação constantemente e precisamos armazená-la em dispositivos cada vez mais avançados. A tecnologia evoluiu de cartões perfurados e fitas magnéticas para HDs, pendrives e armazenamento em nuvem, aumentando exponencialmente a capacidade de armazenamento.
+
+O grande destaque é que a informação se tornou extremamente valiosa - tanto que o pesquisador Clive Humby a chamou de "o novo petróleo". Compartilhamos dados pessoais diariamente através de redes sociais, aplicativos e serviços online, o que nos expõe a riscos.
+
+A aula também apresenta os perigos reais: vazamentos de dados podem levar a roubo de identidade, perdas financeiras e danos à reputação. Um exemplo citado foi o ataque à Ticketmaster em 2024, que expôs dados de 560 milhões de clientes.
+
+Por fim, a mensagem central é que devemos proteger nossos dados com o mesmo cuidado que temos com bens físicos. Essa proteção é responsabilidade de todos - não apenas de especialistas em segurança, mas também de cada pessoa, já que muitos ataques ocorrem por falha humana.

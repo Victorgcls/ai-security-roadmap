@@ -1,0 +1,15 @@
+A aula aborda o conceito fundamental de controle de segurança, que é uma medida implementada para minimizar riscos e proteger os ativos valiosos de uma empresa, como dados e aplicações. O controle funciona mitigando problemas antes mesmo de eles ocorrerem.
+
+Os controles podem ser técnicos (como código ou firewalls) ou não técnicos (como cadeados ou fechaduras). Eles são selecionados com base em critérios como o valor do ativo que será protegido e o custo de implementação versus o custo de substituição.
+
+A aula apresenta quatro classificações principais de controles:
+
+Preventivo: evita que um risco seja explorado, impedindo erros e atos maliciosos.
+
+Detectivo: identifica a ocorrência de um ataque ou problema antes que ele se concretize.
+
+Corretivo: é aplicado quando o risco já é conhecido e precisa ser corrigido.
+
+Dissuasivo: reduz a probabilidade de um risco ser explorado.
+
+A aula utiliza a vulnerabilidade XSS como exemplo prático, mostrando como diferentes tipos de controles podem ser aplicados: um firewall de aplicação (WAF) como preventivo, monitoramento e alertas como detectivo, cabeçalhos CSP ou funções de escape de HTML como corretivos, e desenvolvimento seguro como dissuasivo.

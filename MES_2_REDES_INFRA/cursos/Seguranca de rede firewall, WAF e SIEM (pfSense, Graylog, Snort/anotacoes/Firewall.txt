@@ -1,0 +1,15 @@
+A aula começa apresentando os riscos que enfrentamos ao colocar uma aplicação na internet, como vazamento de dados, danos à reputação da empresa e ataques que podem derrubar sistemas.
+
+Para proteger as aplicações, é necessário estabelecer mecanismos de segurança na rede, sendo o Firewall um dos principais. O Firewall funciona como uma barreira de proteção entre a rede privada (intranet) e a internet pública.
+
+As principais funções do Firewall são:
+
+Estabelecer um perímetro de segurança entre as redes interna e externa
+Separar as redes e controlar os acessos
+Ser um elemento central para aplicar políticas de segurança
+Proteger sistemas vulneráveis na rede
+Aumentar a privacidade
+Registrar e gerar estatísticas de uso e acessos indevidos
+Quanto à localização, o Firewall fica posicionado no centro da arquitetura de rede, controlando o acesso entre a intranet, o servidor web e a internet. Isso o torna um elemento central e estratégico para a segurança.
+
+A aula finaliza deixando claro que o Firewall, apesar de importante, não é suficiente sozinho para proteger completamente uma rede, sendo necessários outros mecanismos de segurança.

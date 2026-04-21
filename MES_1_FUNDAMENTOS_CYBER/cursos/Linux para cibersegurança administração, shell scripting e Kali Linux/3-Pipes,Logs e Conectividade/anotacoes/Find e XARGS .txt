@@ -1,0 +1,22 @@
+Claro! Aqui está um resumo do conteúdo da aula sobre Find e XARGS:
+
+A aula apresenta dois comandos poderosos para buscas e ações em massa no Linux:
+
+Comando find:
+É especializado em percorrer diretórios e subdiretórios buscando arquivos que atendem critérios específicos. A sintaxe básica é: find caminho opções ação.
+
+Algumas opções principais demonstradas foram:
+
+-name "*.txt": busca arquivos com extensão específica
+-type d: busca apenas diretórios
+-type f: busca apenas arquivos
+-size +100M: busca arquivos maiores que 100 MB
+-mtime +7: busca arquivos modificados há 7 dias ou mais
+Comando xargs:
+Funciona em conjunto com o find para executar ações em massa nos arquivos encontrados. Utiliza pipes para redirecionar a saída do find.
+
+Exemplos práticos apresentados:
+
+find . -name "*.log" | xargs rm: remove todos os arquivos .log encontrados
+find . -name "*.sh" | xargs chmod +x: adiciona permissão de execução em scripts
+A combinação do find com xargs permite realizar operações em lotes de arquivos de forma segura e eficiente, evitando manipulações indesejadas e economizando tempo em tarefas repetitivas.

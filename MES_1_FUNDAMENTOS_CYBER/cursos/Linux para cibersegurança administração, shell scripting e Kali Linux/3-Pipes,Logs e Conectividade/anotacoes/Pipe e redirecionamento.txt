@@ -1,0 +1,12 @@
+A aula aborda três ferramentas fundamentais de linha de comando no Linux: redirecionamento simples, redirecionamento duplo e pipe.
+
+Redirecionamento simples (>): Você redireciona a saída de um comando para um arquivo. Por exemplo, ls -l > lista-arquivos.txt cria um arquivo com a listagem de diretórios. Se o arquivo já existir, ele será sobrescrito.
+
+Redirecionamento duplo (>>): Você adiciona a saída de um comando ao final de um arquivo existente, sem apagar seu conteúdo anterior. Por exemplo, echo "--Fim da lista de arquivos--" >> lista-arquivos.txt acrescenta uma linha ao arquivo.
+
+Pipe (|): Você direciona a saída de um comando como entrada para outro comando, permitindo encadear operações. Alguns exemplos práticos mostrados:
+
+ls -l | grep .conf filtra apenas arquivos de configuração
+ps aux | grep nginx exibe apenas o processo do nginx
+ls -l | grep .conf | wc -l conta quantos arquivos de configuração existem
+Essas ferramentas são essenciais para automatizar tarefas e manipular dados no Linux, sendo a base para criar scripts mais complexos no futuro.

@@ -1,0 +1,19 @@
+A aula aborda as operações básicas para trabalhar com arquivos no Linux. Começamos navegando até o diretório home usando cd ~.
+
+Para criar um arquivo vazio, usamos o comando touch test4. Depois, verificamos sua existência com ls e confirmamos que está vazio usando cat.
+
+Para adicionar conteúdo, podemos usar echo com redirecionamento (>) para escrever texto no arquivo. Se precisarmos de edições mais complexas, usamos o editor nano, que permite inserir múltiplas linhas e salvar com Ctrl+X.
+
+Na cópia de arquivos, o comando cp segue a ordem origem e destino. Por exemplo, cp test4 /home/alura/teste/test4 copia o arquivo mantendo o original no local.
+
+Para remover arquivos, usamos rm test4. Já o comando mv serve para duas funções: mover arquivos para outro diretório ou renomeá-los. Quando movemos, o arquivo desaparece do local original.
+
+Resumindo os comandos principais:
+
+touch: criar arquivo vazio
+cat: exibir conteúdo
+echo: adicionar texto simples
+nano: editar com mais detalhes
+cp: copiar
+rm: deletar
+mv: mover ou renomear

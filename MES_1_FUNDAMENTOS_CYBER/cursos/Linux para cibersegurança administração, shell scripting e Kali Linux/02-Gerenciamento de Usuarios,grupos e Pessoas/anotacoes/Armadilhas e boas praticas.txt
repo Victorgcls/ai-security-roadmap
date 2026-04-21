@@ -1,0 +1,13 @@
+Primeira parte - A armadilha do excesso de permissões:
+
+Foi demonstrado como muitos iniciantes cometem o erro de aplicar permissões 777 (leitura, escrita e execução para todos) quando enfrentam problemas de acesso. Isso foi ilustrado criando um arquivo index.html e alterando suas permissões para 777, o que permitiu que qualquer usuário no sistema modificasse o arquivo, mesmo não sendo o proprietário. Essa prática é perigosa porque expõe arquivos desnecessariamente a acessos indevidos.
+
+Segunda parte - Boas práticas com grupos e bit setgid:
+
+Foi apresentada uma abordagem correta para colaboração em equipe usando grupos. Os passos foram:
+
+Criar um grupo chamado devops com sudo addgroup devops
+Adicionar usuários ao grupo com sudo usermod -aG devops joao
+Criar um diretório e atribuir o grupo a ele com sudo chgrp devops projeto-site
+Aplicar o bit setgid com sudo chmod g+s projeto-site, garantindo que novos arquivos criados dentro desse diretório herdem automaticamente o grupo do diretório pai
+Essa última prática é especialmente útil para projetos colaborativos, pois mantém a consistência de permissões entre arquivos criados por diferentes

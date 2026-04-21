@@ -1,0 +1,10 @@
+A aula explica que softwares e aplicativos recebem atualizações constantemente, e essas atualizações podem incluir mudanças visuais, novas funcionalidades, correção de bugs e, principalmente, correções de segurança.
+
+O ponto central é que quando você não atualiza seus aplicativos, softwares ou sistema operacional, você fica exposto a vulnerabilidades conhecidas. Um cibercriminoso pode explorar essas falhas de segurança para atacar seu dispositivo. A aula cita o exemplo do WannaCry, um ransomware que explorava uma vulnerabilidade específica do Windows e afetou muitas pessoas que não tinham seus computadores atualizados.
+
+As recomendações práticas são:
+
+Atualize seus aplicativos regularmente
+Atualize o sistema operacional
+Habilite atualizações automáticas sempre que possível, para que o sistema se atualize sozinho sem você precisar lembrar
+A mensagem final é que essa prática de manter tudo atualizado é ainda mais crítica em ambientes corporativos, onde estão em jogo dados da empresa e de clientes.

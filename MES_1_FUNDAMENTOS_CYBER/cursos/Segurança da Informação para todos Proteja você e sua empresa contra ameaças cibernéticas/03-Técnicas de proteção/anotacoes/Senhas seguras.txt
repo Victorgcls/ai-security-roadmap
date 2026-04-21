@@ -1,0 +1,16 @@
+A aula aborda a importância de criar senhas fortes como primeira camada de proteção para suas informações pessoais em sites e aplicativos. O instrutor explica que senhas fracas, como sequências numéricas ou informações pessoais óbvias, são facilmente descobertas através de ataques de força bruta, onde criminosos usam ferramentas automatizadas para testar múltiplas combinações de senhas.
+
+Para criar uma senha segura, você deve:
+
+Usar pelo menos dez caracteres
+Misturar letras maiúsculas e minúsculas
+Incluir números e caracteres especiais
+Evitar palavras conhecidas ou informações pessoais
+A aula também apresenta ferramentas úteis como geradores de senhas aleatórias e passphrases, que criam senhas seguras e fáceis de memorizar.
+
+As principais recomendações são:
+
+Utilize senhas fortes em todos os seus acessos
+Não reutilize a mesma senha em diferentes sites
+Use um gerenciador de senhas para armazenar e organizar suas senhas de forma segura
+Essas práticas são essenciais para proteger a confidencialidade das suas informações contra acessos não autorizados.

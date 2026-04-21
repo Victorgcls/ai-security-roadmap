@@ -1,0 +1,19 @@
+O que é o Modelo TCP/IP
+
+O modelo TCP/IP é a arquitetura real da internet, diferente do modelo OSI que é apenas conceitual. Ele organiza a comunicação em rede em quatro camadas.
+
+As Quatro Camadas
+
+A camada de aplicação contém os dados brutos que o usuário interage. A camada de transporte adiciona cabeçalhos com informações de porta e controle para comunicação fim a fim. A camada de internet adiciona endereços IP e informações de roteamento. A camada de interface de rede encapsula tudo em quadros para transmissão física.
+
+Comparação com o Modelo OSI
+
+O modelo OSI tem sete camadas, enquanto o TCP/IP tem quatro. As camadas física e de enlace do OSI correspondem à interface de rede do TCP/IP. As camadas de rede e transporte são iguais nos dois modelos. A camada de aplicação do TCP/IP agrupa três camadas do OSI: sessão, apresentação e aplicação.
+
+Principais Protocolos
+
+TCP garante entrega confiável, UDP é rápido para streaming e jogos. HTTP e HTTPS são para web, sendo HTTPS criptografado. DNS converte nomes em IP, SSH permite acesso remoto seguro, FTP transfere arquivos e ICMP verifica conectividade.
+
+Importância para Cibersegurança
+
+Compreender o TCP/IP permite analisar tráfego de rede, configurar firewalls adequadamente, detectar ataques e realizar pentestes e auditorias de segurança.

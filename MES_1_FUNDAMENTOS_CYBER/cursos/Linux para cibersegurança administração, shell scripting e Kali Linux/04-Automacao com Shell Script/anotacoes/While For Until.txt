@@ -1,0 +1,7 @@
+FOR: Itera sobre uma lista de itens. Você define uma variável que recebe cada elemento da lista e executa um bloco de código para cada um. Pode ser usado com listas explícitas (como nomes) ou com resultados de comandos (como arquivos com extensão específica).
+
+WHILE: Executa um bloco de código enquanto uma condição for verdadeira. Você avalia uma condição entre colchetes e, enquanto ela for verdadeira, o código continua sendo executado. Quando a condição se torna falsa, o loop encerra. Também pode ser usado para ler arquivos linha por linha.
+
+UNTIL: É o oposto do WHILE. Executa um bloco de código até que uma condição se torne verdadeira. Enquanto a condição for falsa, o código continua sendo executado. Quando a condição fica verdadeira, o loop para.
+
+Todos os três loops seguem a estrutura básica de inicialização, avaliação de condição (ou iteração sobre lista) e finalização com DONE. Essas estruturas são fundamentais para criar scripts eficientes e automatizar tarefas repetitivas.

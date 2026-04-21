@@ -1,0 +1,17 @@
+A aula introduz o conceito de funções em shell scripts, que são blocos de código reutilizáveis que tornam os scripts mais profissionais e modulares.
+
+A sintaxe básica é: nome_funcao () { comandos; }
+
+Os principais tópicos abordados foram:
+
+Funções básicas: Você declara uma função com seu nome, parênteses e chaves, depois a chama pelo nome. É importante declarar a função antes de chamá-la.
+
+Funções com parâmetros: Você pode passar argumentos para uma função usando $1, $2, etc., assim como faz com argumentos do script.
+
+Retorno de valores: Você pode capturar o resultado de uma função usando a estrutura $() e armazenar em uma variável, permitindo reutilizar esse valor.
+
+Variáveis locais e globais: Por padrão, variáveis em funções bash são globais. Para torná-las locais e evitar conflitos em scripts complexos, use a palavra-chave local.
+
+Ordem de execução: Sempre declare a função antes de chamá-la, caso contrário o shell não saberá o que está sendo executado.
+
+A aula demonstra na prática como criar funções simples, passar argumentos, capturar resultados e gerenciar o escopo das variáveis, preparando você para scripts mais organizados e profissionais.

@@ -1,0 +1,17 @@
+A aula aborda os principais atalhos do terminal Linux que facilitam o trabalho e aumentam a produtividade. Aqui está um resumo dos atalhos apresentados:
+
+Tab - Autocompletar comandos. Ao digitar as primeiras letras de um comando e pressionar Tab, o terminal sugere opções ou completa automaticamente o comando, evitando erros de digitação.
+
+Ctrl+C - Interromper um comando em execução. Útil quando você precisa parar um processo que está rodando no terminal e retornar ao prompt.
+
+Ctrl+L - Limpar a tela. Funciona da mesma forma que o comando clear, deixando o terminal mais limpo para visualização.
+
+Ctrl+R - Buscar no histórico de comandos. Permite pesquisar comandos já digitados anteriormente, facilitando a reutilização sem precisar digitá-los novamente.
+
+!! - Executar o último comando. Ao digitar dois pontos de exclamação e pressionar Enter, o terminal executa novamente o comando anterior.
+
+history - Exibir o histórico completo de comandos já digitados no terminal.
+
+Ctrl+Z - Suspender um processo. Pausa a execução de um comando em andamento.
+
+fg - Retomar um processo suspenso. Volta a executar o processo que foi pausado com Ctrl+Z.

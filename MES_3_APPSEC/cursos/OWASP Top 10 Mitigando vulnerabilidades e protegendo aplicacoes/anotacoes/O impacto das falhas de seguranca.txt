@@ -1,0 +1,17 @@
+A aula aborda a importância crítica da segurança na codificação e os impactos das falhas de segurança nas aplicações.
+
+Os principais pontos discutidos são:
+
+Impactos financeiros e reputacionais: Quando uma aplicação sofre uma vulnerabilidade explorada, especialmente em instituições financeiras, há perda de confiança dos usuários, que podem retirar seus dados e recursos do ambiente.
+
+Abordagem proativa da segurança: A segurança deve ser vista como algo que ajuda e protege, não como uma restrição. Isso envolve explicar aos usuários a importância de código seguro e reduzir a superfície de ataque.
+
+Desenvolvimento seguro desde o início: Através do SSDLC (Secure Software Development Life Cycle), é essencial garantir segurança desde a fase de codificação, não como uma correção posterior.
+
+Vulnerabilidades comuns: A aula destaca duas vulnerabilidades frequentes:
+
+SQL Injection: manipula interações com banco de dados para acessar informações sem autenticação
+XSS (Cross-Site Scripting): injeta códigos JavaScript no input para roubar sessões de usuários
+Tendência crescente: Há aumento dessas vulnerabilidades nos últimos anos, possivelmente relacionado ao uso de IA e LLMs no desenvolvimento, reforçando a necessidade de seguir diretrizes da OWASP.
+
+A mensagem central é que codificar de forma segura e preventiva é fundamental para proteger dados, confiança e a reputação da organização.

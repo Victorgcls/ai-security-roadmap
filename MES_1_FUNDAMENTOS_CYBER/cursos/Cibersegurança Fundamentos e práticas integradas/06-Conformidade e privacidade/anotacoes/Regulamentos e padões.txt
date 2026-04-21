@@ -1,0 +1,11 @@
+A aula abordou regulamentos e padrões de segurança que protegem dados em diferentes contextos. Começamos entendendo que existem riscos de conformidade relacionados a leis e padronizações específicas.
+
+Você aprendeu sobre regulamentações em diferentes setores: PCI DSS para cartões de crédito, HIPAA para dados médicos, SOX para transparência financeira, GDPR na Europa e LGPD no Brasil para privacidade de dados. Também foram apresentadas normas como ISO 27001 para segurança da informação e ISO 31000 para gerenciamento de riscos.
+
+Um ponto importante foi entender as diferenças entre lei, ato, regulamentação e norma. Leis são impostas pelo governo, regulamentações são regras detalhadas e normas são diretrizes específicas.
+
+A aula destacou o ciclo de vida dos dados conforme a LGPD: coleta, processamento, análise, compartilhamento, armazenamento temporário, reutilização e eliminação. Os dados devem ser armazenados por no máximo três anos.
+
+Você também aprendeu sobre os papéis envolvidos: o titular (dono dos dados), o controlador (define o uso), o operador (utiliza conforme definido) e o DPO ou encarregado (gerencia e faz a ponte entre os outros).
+
+Por fim, a aula enfatizou a importância de classificar dados corretamente, proteger dados sensíveis e manter conformidade através de programas de compliance e auditoria.

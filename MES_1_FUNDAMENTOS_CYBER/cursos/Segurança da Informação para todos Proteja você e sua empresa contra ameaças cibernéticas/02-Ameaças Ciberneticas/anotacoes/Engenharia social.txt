@@ -1,0 +1,11 @@
+ aula começa reforçando que malware não é a única ameaça cibernética. Existem outras ameaças igualmente perigosas, como a engenharia social.
+
+O instrutor explora o conceito de manipulação, mostrando como pessoas mal-intencionadas usam técnicas psicológicas para enganar outras e obter acesso a informações sensíveis. Essas técnicas incluem o uso de autoridade, urgência e medo para pressionar psicologicamente as vítimas.
+
+Em seguida, a aula define engenharia social como uma ameaça cibernética que ataca diretamente as pessoas. Diferentemente do malware, que é um programa, a engenharia social explora o fator humano - o elo fraco da segurança. O instrutor apresenta casos reais, como golpes bancários de 2023 e o caso de um adolescente que acessou informações sigilosas da CIA e FBI.
+
+A aula também traz dois exemplos práticos:
+
+Um falso técnico de telecomunicações que usa autoridade e urgência para ganhar acesso a equipamentos da empresa.
+Um pendrive infectado deixado propositalmente para que alguém o conecte e instale um malware, como o RubberDucky.
+Por fim, o instrutor recomenda: não conectar pendrives desconhecidos, limitar acesso a dispositivos eletrônicos e desconfiar de atitudes suspeitas que envolvam pressão ou urgência.

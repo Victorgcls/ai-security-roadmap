@@ -1,0 +1,23 @@
+A aula apresenta a estrutura e hierarquia de arquivos do Linux, fundamental para localizar arquivos como logs, configurações e dados de usuários.
+
+Os principais pontos abordados foram:
+
+O diretório raiz "/" é o ponto de partida de toda a estrutura do sistema operacional Linux.
+
+Os diretórios principais incluem:
+
+"/boot": arquivos necessários para inicialização do sistema
+"/dev": representa dispositivos de hardware
+"/etc": armazena arquivos de configuração do sistema
+"/home": contém diretórios pessoais dos usuários
+"/media": ponto de montagem para mídias removíveis como pendrives
+"/mnt": ponto de montagem temporário para sistemas de arquivos
+"/opt": destinado a softwares opcionais de terceiros
+"/proc": sistema de arquivos virtual com informações sobre processos
+"/root": diretório home do usuário administrativo (root)
+"/run": dados em tempo de execução do sistema
+"/srv": contém dados de serviços em execução
+"/tmp": diretório temporário acessível por todos os usuários
+"/usr": recursos de sistemas de usuários e binários
+"/var": armazena logs, cache e outros dados em constante rotação
+Compreender essa estrutura é essencial para navegar, modificar configurações, acessar dados de usuários e verificar logs no Linux.

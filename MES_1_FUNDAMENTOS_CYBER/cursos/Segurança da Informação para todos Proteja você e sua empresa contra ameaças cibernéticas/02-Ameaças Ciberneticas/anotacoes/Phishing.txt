@@ -1,0 +1,15 @@
+Claro! Aqui está um resumo da aula sobre Phishing:
+
+A aula começa explicando que, diferentemente da engenharia social presencial, existem técnicas de engenharia social realizadas remotamente através de mecanismos de comunicação digital. Essas técnicas exploram o fato de que recebemos constantemente mensagens de empresas legítimas, o que dificulta identificar quais são falsas.
+
+O instrutor apresenta vários exemplos práticos de mensagens fraudulentas:
+
+SMS falsos de bancos pedindo confirmação de dados com links suspeitos
+E-mails com erros ortográficos se passando por bancos, oferecendo promoções e pedindo dados de cartão
+Mensagens sobre compras suspeitas para gerar urgência
+Comunicados falsos de entrega de pacotes com botões para confirmar
+Faturas digitais falsas de operadoras
+Mensagens no WhatsApp sobre valores a receber com links maliciosos
+Depois, é apresentado o conceito de Phishing: um tipo de ataque onde criminosos enviam muitas mensagens esperando que algumas pessoas "mordam a isca" e cliquem em links ou forneçam informações pessoais.
+
+Por fim, a aula oferece recomendações importantes: não clicar em links suspeitos, não baixar arquivos desconhecidos, e sempre verificar informações através de canais oficiais da empresa, entrando em contato diretamente ou acessando sites e aplicativos legítimos.

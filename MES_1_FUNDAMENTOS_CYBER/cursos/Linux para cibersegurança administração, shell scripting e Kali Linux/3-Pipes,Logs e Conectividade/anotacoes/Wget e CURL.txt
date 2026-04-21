@@ -1,0 +1,9 @@
+A aula apresenta duas ferramentas essenciais para profissionais de cibersegurança que precisam fazer requisições web e baixar arquivos pelo terminal Linux.
+
+O wget é um baixador simples e direto. Você pode usá-lo para fazer downloads básicos passando apenas a URL. Ele mostra informações da requisição, barra de progresso e velocidade. Se quiser salvar o arquivo com um nome diferente, use a opção -O seguida do nome desejado e a URL.
+
+O curl é mais versátil que o wget, funcionando como um "canivete suíço" para trabalhar com URLs. Além de baixar arquivos, ele permite enviar dados e realizar diferentes métodos HTTP, como POST. Você pode visualizar o conteúdo de um site, enviar dados para APIs usando -X POST, adicionar cabeçalhos com -H e enviar dados com -d.
+
+A aula também mostra como combinar o curl com pipes e grep para filtrar respostas. Por exemplo, você pode fazer uma requisição e usar grep para extrair apenas informações específicas, como um IP público.
+
+Em resumo: wget para downloads simples, curl para requisições mais complexas e interação com APIs.

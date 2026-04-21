@@ -1,0 +1,7 @@
+A aula aborda a importância de proteger dados pessoais quando compartilhamos informações com empresas e terceiros. O ponto central é que, embora possamos proteger nossos dados em nossos próprios dispositivos, quando os compartilhamos com outras organizações, perdemos o controle sobre eles e surgem preocupações legítimas sobre como serão armazenados, utilizados e protegidos.
+
+A partir dessas preocupações, foi criada a Lei Geral de Proteção de Dados, a LGPD, uma legislação brasileira inspirada na GDPR europeia. Seu objetivo é proteger a privacidade dos cidadãos brasileiros em relação às suas informações pessoais, estabelecendo regras sobre como as empresas podem coletar, armazenar e utilizar esses dados.
+
+A aula também menciona que a ANPD, Autoridade Nacional de Proteção de Dados, é o órgão responsável por fiscalizar o cumprimento da LGPD e aplicar punições às empresas que não seguem a lei. Todos que trabalham em empresas que coletam dados de pessoas precisam estar conscientes dessa responsabilidade e garantir conformidade com a legislação.
+
+Por fim, a aula reforça que a privacidade é uma preocupação essencial dentro da segurança da informação, e que como cidadãos, temos direitos, como solicitar acesso aos dados que as empresas possuem sobre nós.

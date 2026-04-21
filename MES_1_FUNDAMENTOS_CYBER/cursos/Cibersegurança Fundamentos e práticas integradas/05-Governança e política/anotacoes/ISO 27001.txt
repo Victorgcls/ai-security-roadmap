@@ -1,0 +1,7 @@
+A aula aborda a importância da ISO na governança de segurança da informação. A ISO é uma organização que cria padronizações internacionais, permitindo que empresas sejam certificadas quando atuam corretamente em determinadas áreas.
+
+A ISO 27001 é específica para segurança da informação. Ela define requisitos, processos e pessoas necessários para criar políticas de segurança, garantindo controle e conformidade no ambiente. Auditores verificam se a empresa está apta a receber essa certificação, o que é especialmente valioso para órgãos financeiros.
+
+Já a ISO 27002 funciona de forma complementar. Ela oferece uma forma prática de implementar controles após as políticas serem definidas. Por exemplo, se uma política estabelece senhas com 14 caracteres, a ISO 27002 ajuda a implementar isso na prática através de medidas como autenticação multifator, controle de acesso, definição de permissões de usuários e segmentação de rede.
+
+Em resumo: a ISO 27001 certifica que o ambiente está adequado em segurança da informação, enquanto a ISO 27002 define os controles práticos para implementar essa segurança no dia a dia.

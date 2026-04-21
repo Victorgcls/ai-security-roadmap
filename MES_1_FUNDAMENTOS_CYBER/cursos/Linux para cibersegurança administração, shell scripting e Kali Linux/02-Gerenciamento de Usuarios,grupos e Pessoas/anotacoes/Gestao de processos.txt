@@ -1,0 +1,15 @@
+A aula introduz os conceitos fundamentais para visualizar e gerenciar processos em execução no Linux, otimizando os recursos do sistema.
+
+Os principais comandos apresentados foram:
+
+ps - Lista os processos da sessão atual do usuário, mostrando o PID (identificador único de cada processo).
+
+top - Oferece uma visualização em tempo real dos processos, exibindo informações como PID, CPU utilizado, memória consumida e o comando em execução. Atualiza constantemente e pode ser encerrado com Ctrl+C.
+
+ps aux - Fornece uma visualização mais completa de todos os processos do sistema, incluindo usuário, PID, consumo de CPU e memória, TTY e horário de início.
+
+ps aux | grep - Combina o comando ps com um pipeline para filtrar processos por nome, facilitando a busca por um programa específico.
+
+kill - Encerra um processo usando seu PID, útil quando um processo está travado ou consumindo muitos recursos.
+
+free - Exibe os recursos de memória disponíveis no sistema. Com a opção -h, apresenta a informação de forma mais legível, mostrando também a memória swap.

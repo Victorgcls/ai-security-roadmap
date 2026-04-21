@@ -1,0 +1,13 @@
+A aula apresenta o Mitre Att&ck como um framework visual e documentado que ajuda a entender como atacantes exploram ambientes de segurança. O framework define dois conceitos principais: táticas, que são os objetivos do atacante, e técnicas, que são os métodos utilizados para alcançar esses objetivos.
+
+A instrutora explica que o Mitre Att&ck funciona como uma matriz que permite analisar passo a passo como um ataque pode ocorrer em diferentes ambientes, como empresariais, nuvem, sistemas operacionais (Windows, macOS), dispositivos móveis (iOS, Android) e infraestruturas críticas.
+
+Um ponto importante é a aplicação prática do framework em trabalhos de Red Team e modelagem de ameaças. Nesse contexto, profissionais de segurança usam o Mitre Att&ck para:
+
+Escolher quais técnicas e táticas testar no ambiente
+Planejar quais ferramentas utilizar para simular ataques
+Verificar se os controles de segurança existentes conseguem detectar essas tentativas
+Documentar o que foi testado, o que não foi e o que ainda precisa ser testado
+Por fim, a aula destaca que o Mitre Att&ck é uma ferramenta essencial para elevar a maturidade de segurança de um ambiente, permitindo que as organizações implementem controles preventivos mais eficazes contra possíveis ataques reais.
+
+Copiar texto da Luri para área de transferêcia

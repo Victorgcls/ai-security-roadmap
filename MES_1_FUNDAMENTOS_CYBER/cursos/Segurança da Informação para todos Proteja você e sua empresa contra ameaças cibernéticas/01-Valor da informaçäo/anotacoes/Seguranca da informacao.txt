@@ -1,0 +1,17 @@
+Claro! Aqui está um resumo do conteúdo da aula:
+
+A aula aborda a importância de proteger as informações, que são ativos valiosos tanto para pessoas quanto para empresas. O instrutor levanta a questão central: suas informações estão seguras?
+
+As informações existem em diversos formatos — impresso, falado ou digital — e estão expostas a diferentes tipos de ameaças:
+
+Falhas humanas, como deixar um computador desbloqueado ou usar senhas fracas
+Falhas tecnológicas, quando cibercriminosos exploram vulnerabilidades em sistemas
+Falhas naturais, como incêndios ou enchentes
+Diante dessas ameaças, surgiu a necessidade de uma área especializada em segurança da informação. Essa área é responsável por gerenciar riscos, criar normas e políticas, treinar colaboradores e garantir a continuidade do negócio em caso de desastres ou ataques.
+
+A segurança da informação se baseia em três pilares principais:
+
+Confidencialidade — controlar quem pode acessar as informações
+Integridade — garantir que as informações não sejam alteradas indevidamente
+Disponibilidade — assegurar que as informações estejam acessíveis quando necessário
+O curso vai se concentrar especificamente em cibersegurança a partir do próximo vídeo.

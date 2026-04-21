@@ -1,0 +1,13 @@
+A aula explica que um hacker ético é um profissional que utiliza técnicas de exploração de forma legítima e responsável para encontrar vulnerabilidades em sistemas e aplicações. Diferentemente de pessoas mal-intencionadas, esses profissionais trabalham dentro de um escopo definido e geram relatórios com evidências para ajudar as organizações a melhorar sua segurança.
+
+As principais responsabilidades incluem:
+
+Simular ataques reais, como técnicas de engenharia social, para testar a maturidade do ambiente e identificar falhas antes que criminosos as descubram.
+
+Prevenir problemas de processo, política e configuração, além de garantir a disponibilidade dos dados e evitar negação de serviço.
+
+Trabalhar com escopos bem definidos, frequentemente realizando pentests periodicamente em aplicações críticas, sempre com um NDA para manter sigilo sobre vulnerabilidades encontradas.
+
+Para atuar nessa área, é necessário desenvolver hard skills como conhecimento em sistemas operacionais (especialmente Linux), redes, programação e análise de código. Também são essenciais soft skills como capacidade de aprender novas tecnologias, pensamento crítico e, acima de tudo, ética profissional.
+
+A aula enfatiza que agir com responsabilidade, seguir as políticas da organização e respeitar as leis são fundamentais para um hacker ético, pois isso garante a segurança sem comprometer a integridade dos sistemas.

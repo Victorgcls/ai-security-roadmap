@@ -1,0 +1,11 @@
+A aula explora como vulnerabilidades exploradas geram impactos significativos para organizações e pessoas. Os principais impactos abordados são:
+
+Impactos financeiros e legais: quando dados de clientes são expostos sem consentimento, a organização enfrenta multas conforme a Lei Geral de Proteção de Dados e perde a confiança das pessoas.
+
+Impactos reputacionais: fragilidades percebidas no sistema geram desconfiança, levando à perda de clientes e problemas legais.
+
+Impactos operacionais: ataques como negação de serviço interrompem o acesso aos dados, prejudicando as operações da organização.
+
+A aula também ensina como avaliar o risco, que é determinado pela combinação de dois fatores: a probabilidade de exploração da ameaça e o impacto potencial. Nem toda vulnerabilidade é facilmente explorável, então é necessário analisar criteriosamente quais representam risco real.
+
+Por fim, a aula apresenta estratégias de gestão de risco: você pode aceitar o risco quando não há alternativas, mitigar o problema corrigindo a vulnerabilidade, transferir o risco para terceiros ou evitar completamente removendo a vulnerabilidade.

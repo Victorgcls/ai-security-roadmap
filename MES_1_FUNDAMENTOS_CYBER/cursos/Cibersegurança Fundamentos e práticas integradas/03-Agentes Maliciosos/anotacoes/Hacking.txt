@@ -1,0 +1,14 @@
+O que é hacking:
+Hacking é uma maneira diferente de pensar e agir que permite acessar, modificar ou explorar sistemas vulneráveis. Importante ressaltar que o termo "hacker" não é necessariamente pejorativo - um hacker é alguém com alta habilidade técnica que pensa de forma inovadora, resolvendo problemas de maneiras que ninguém havia pensado antes.
+
+Tipos de hackers:
+A aula classifica os hackers em categorias principais:
+
+Black hat: age de forma ilegal
+White hat: hacker ético, contratado por empresas para segurança ofensiva ou programas de bug bounty
+Gray hat: está entre bem-intencionado e mal-intencionado
+Script kiddie: conhece ferramentas, mas não tem entendimento profundo de segurança
+Também são mencionados ativistas hackers (motivados por política), ciberterroristas e suicide hackers.
+
+Programas de recompensa:
+A aula destaca plataformas como HackerOne, BugCrowd e BugHunt, onde hackers éticos podem encontrar vulnerabilidades e receber recompensas financeiras, respeitando o escopo definido pelas empresas.

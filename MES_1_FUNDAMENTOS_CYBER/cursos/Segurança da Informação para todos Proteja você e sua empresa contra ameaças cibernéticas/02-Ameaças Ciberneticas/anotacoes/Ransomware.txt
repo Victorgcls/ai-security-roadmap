@@ -1,0 +1,9 @@
+A aula começa reforçando que a informação é um ativo valioso armazenado em nossos dispositivos, e que cibercriminosos buscam acessá-la através de malwares. O foco especial é no Ransomware, um tipo de malware que ficou famoso por causar prejuízos enormes.
+
+O Ransomware ataca principalmente o terceiro pilar da segurança da informação: a disponibilidade. Ele funciona como um sequestro digital - o malware criptografa seus arquivos e bloqueia seu acesso, depois pede um resgate em troca da chave para descriptografá-los.
+
+Quando infectado, o programa modifica a extensão dos seus arquivos e embaralha seu conteúdo através de criptografia. Você recebe uma mensagem informando o que aconteceu e pedindo um pagamento, geralmente em criptomoedas como Bitcoin, para obter a chave de descriptografia.
+
+A aula apresenta o WannaCry como exemplo real: um ataque de 2017 que infectou mais de 200 mil computadores em 150 países. Ele explorava uma vulnerabilidade no Windows e afetou até órgãos governamentais no Brasil. O ataque criava pressão com prazos curtos para pagamento e aumentava o valor se não fosse pago a tempo.
+
+Por fim, a aula menciona que proteções como antivírus existem, mas nem sempre são suficientes, pois esses malwares podem explorar vulnerabilidades no sistema operacional ou em softwares instalados.

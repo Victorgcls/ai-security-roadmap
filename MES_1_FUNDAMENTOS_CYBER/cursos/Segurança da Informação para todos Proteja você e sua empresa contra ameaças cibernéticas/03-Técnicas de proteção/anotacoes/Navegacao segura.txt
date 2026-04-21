@@ -1,0 +1,13 @@
+A aula aborda os perigos que enfrentamos ao navegar na internet e como nos proteger. O principal risco é acessar sites falsos, que criminosos criam clonando sites legítimos de bancos e lojas. Esses clones são frequentemente divulgados por meio de e-mails de phishing, especialmente em datas festivas como Black Friday.
+
+A aula apresenta três situações práticas e ferramentas para se proteger:
+
+Sites falsos de leilão: Use o site Leilão Seguro para verificar se um leilão é real ou golpe antes de participar.
+
+E-commerce falsos: Acesse a página Evite esses Sites do Procon de São Paulo para pesquisar se uma loja virtual tem denúncias de fraude.
+
+Verificação geral de sites: Use a ferramenta Whois para descobrir informações sobre o proprietário e o registro de qualquer domínio na internet.
+
+A aula também alerta sobre redes wi-fi públicas, que podem ser usadas para ataques "man in the middle", onde criminosos interceptam suas comunicações. Se o site não usar HTTPS, seus dados não estarão criptografados.
+
+Por fim, a aula recomenda evitar compartilhar dados, usar VPNs e antivírus para proteger sua privacidade, sendo que as VPNs pagas oferecem maior proteção que as gratuitas.

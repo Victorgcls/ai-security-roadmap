@@ -1,0 +1,15 @@
+Os principais pontos abordados foram:
+
+Configuração do arquivo de log: você declarou uma variável LOG_FILE para armazenar as informações em um arquivo chamado monitoramento.log.
+
+Iteração sobre domínios: utilizou um laço for para processar todos os domínios passados como argumentos de linha de comando.
+
+Verificação de status: usou o comando curl para obter o código de status HTTP de cada site. Se o status fosse 200, o site estava acessível.
+
+Extração de dados SSL: quando um site estava acessível, o script extraía a data de expiração do certificado SSL usando openssl.
+
+Tratamento de erros: o script registrava tanto sucessos quanto falhas no arquivo de log, diferenciando entre sites acessíveis e inacessíveis.
+
+Testes e correções: você testou o script passando URLs como argumentos, identificou e corrigiu erros de sintaxe até que funcionasse corretamente.
+
+O resultado final foi um script funcional que automatiza o monitoramento de múltiplos domínios, registrando todas as informações em um arquivo de log para posterior análise.

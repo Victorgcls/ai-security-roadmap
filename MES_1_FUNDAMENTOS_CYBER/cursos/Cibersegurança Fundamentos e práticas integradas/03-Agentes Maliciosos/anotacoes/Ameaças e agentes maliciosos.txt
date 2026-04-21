@@ -1,0 +1,15 @@
+A aula aborda como os ataques de segurança possuem motivos e métodos distintos. Um ataque é motivado por razões específicas (sociais, políticas ou financeiras) e utiliza métodos particulares, como explorar vulnerabilidades específicas em sistemas.
+
+A instrutora explica que existem diferentes tipos de ameaças:
+
+Ameaças em ambientes de nuvem: configurações inadequadas podem expor containers e dados. Permissões elevadas concedidas incorretamente podem resultar em vazamento de credenciais.
+
+Ataques persistentes (APTs): organizações bem financiadas que atacam de forma direcionada para roubar informações.
+
+Malware e ransomware: scripts maliciosos que criptografam arquivos e exigem pagamento para recuperação.
+
+Problemas em aplicações mobile: bancos de dados locais podem ser acessados se o aplicativo for decomplicado.
+
+Vetores de ataque incluem botnets (redes para negação de serviço), insider attacks (pessoas dentro da organização), phishing (e-mails falsos), roubo de senhas e problemas de IoT.
+
+A aula enfatiza que compreender como esses ataques funcionam e identificar seus vetores permite mitigar e prevenir vulnerabilidades tanto em aplicações quanto em sistemas.

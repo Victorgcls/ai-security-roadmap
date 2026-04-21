@@ -1,0 +1,23 @@
+A aula aborda a interação com o terminal do Ubuntu Linux. Você aprendeu sobre:
+
+Elementos do prompt do terminal:
+
+Nome do usuário (alura)
+Símbolo @ e hostname (alura-virtualbox)
+Diretório atual (~ representa o diretório home)
+Símbolo final: $ para usuários comuns e # para o superusuário (root)
+Comandos apresentados:
+
+pwd - exibe o diretório atual em que você está
+
+clear - limpa a tela do terminal
+
+sudo su - permite executar comandos com privilégios de superusuário e muda para o usuário root
+
+cd - muda de diretório (change directory). Por exemplo, cd /root leva você ao diretório home do root
+
+exit - sai do usuário atual e retorna ao usuário anterior
+
+Conceitos principais:
+
+A diferença entre usuários comuns (símbolo $) e o superusuário root (símbolo #), que possui privilégios elevados no sistema. Você também viu como navegar entre diretórios e alternar entre usuários no terminal.
