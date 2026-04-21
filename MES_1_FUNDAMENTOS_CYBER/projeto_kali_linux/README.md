@@ -174,7 +174,7 @@ chmod 600 ~/.ssh/id_rsa
 chown usuario:grupo arquivo.py
 ```
 
-**Conexão AI Security:** Datasets de treino e modelos serializado (`.pkl`, `.pt`) devem ter permissões restritivas — um arquivo de modelo com permissão `777` é uma superfície de ataque.
+**Conexão AI Security:** Datasets de treino e modelos serializados (`.pkl`, `.pt`) devem ter permissões restritivas — um arquivo de modelo com permissão `777` é uma superfície de ataque.
 
 ---
 
